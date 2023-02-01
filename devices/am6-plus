@@ -1,0 +1,18 @@
+## Maintained by Spikerguy ##
+#Ugoos AM6 Plus
+
+# Kernel and bootloader stuff
+linux-odroid
+boot-am6-plus
+plymouth
+plymouth-theme-manjaro
+
+# Video driver
+
+# Other device specific packages
+crda
+ap6398s-firmware
+bluetooth-vim3
+fbset
+generic-post-install
+am6-plus-post-install

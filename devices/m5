@@ -1,0 +1,15 @@
+## Maintained by Spikerguy ##
+
+# Kernel and bootloader stuff
+linux-aml
+boot-m5
+plymouth
+plymouth-theme-manjaro
+
+# Video driver
+
+# Other device specific packages
+crda
+fbset
+generic-post-install
+m5-post-install

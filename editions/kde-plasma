@@ -1,0 +1,88 @@
+## Maintained by Strit ##
+
+# Sound, Video and bluetooth
+alsa-utils
+mpv
+wireplumber
+pipewire-alsa
+pipewire-pulse
+pipewire-zeroconf
+gst-plugin-pipewire
+
+# Display Manager
+sddm
+sddm-kcm
+
+# Plasma packages
+bluedevil
+breeze
+drkonqi
+kde-gtk-config
+kinfocenter
+kcalc
+kscreen
+kscreenlocker
+kwallet-pam
+kwayland-integration
+plasma-wayland-session
+kwin
+plasma-desktop
+plasma-nm
+plasma-pa
+plasma-systemmonitor
+plasma-workspace
+powerdevil
+systemsettings
+plasma-vault
+plasma-firewall
+
+# KDE applications
+dolphin
+dolphin-plugins
+kate
+konsole
+ark
+okular
+gwenview
+spectacle
+
+# Themes
+plasma5-themes-breath
+sddm-breath-theme
+manjaro-arm-wallpapers
+breeze-gtk
+manjaro-icons
+
+
+# Office suite
+#libreoffice-fresh
+
+# Browser
+firefox
+firefox-ublock-origin
+
+# Package Manager
+pamac-gtk
+pamac-tray-icon-plasma
+
+# Fonts
+ttf-bitstream-vera
+noto-fonts
+wqy-microhei #chinese
+
+# Manjaro tools
+manjaro-settings-manager
+manjaro-hotfixes
+manjaro-arm-flasher
+manjaro-arm-installer
+matray
+
+# Other packages
+openresolv
+wget
+power-profiles-daemon
+xdg-user-dirs
+networkmanager-openvpn
+firewalld
+xorg-server
+xorg-xinit

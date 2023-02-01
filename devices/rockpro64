@@ -1,0 +1,14 @@
+## Maintained by Strit ##
+
+# Kernel and bootloader stuff
+linux
+uboot-rockpro64
+plymouth
+plymouth-theme-manjaro
+
+# Video drivers
+
+# Other device specific packages
+linux-firmware
+generic-post-install
+rockpro64-post-install

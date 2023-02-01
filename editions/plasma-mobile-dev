@@ -1,0 +1,144 @@
+## Maintained by Bernhard ##
+
+# Phone specific packages
+>pinephone modemmanager-pp
+>pinephone noto-fonts-cjk # needed to display * and # in dialer
+>pinephone plasma-dialer
+
+# OpenGLES qt packages
+qt5-es2-base
+qt5-es2-declarative
+qt5-es2-multimedia
+pyside2-es2
+openssl-1.1
+
+# Multimedia packages
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-ugly
+maui-clip
+wireplumber
+gst-plugin-pipewire
+
+# Image packages
+kio-extras
+kdegraphics-thumbnailers
+libappimage
+ffmpegthumbs
+
+# Personal assistance
+#mycroft-gui-git
+
+# PM Packages
+angelfish
+audiotube
+buho
+calindori
+desktop-file-utils
+elisa-qtmm
+index-fm
+kaccounts-providers
+kalk
+kasts
+kclock
+keysmith
+kio-extras
+kongress
+kpeoplesink
+krecorder
+ktrip
+kweather
+kwin
+maliit-framework
+maliit-keyboard
+mauikit
+neochat
+noto-fonts-emoji
+anthy #fix japanese
+libpinyin #fix chinese
+libchewing #fix chinese
+maui-nota
+okular
+plasma-mobile
+plasma-mobile-nm
+plasma-mobile-settings
+plasma-nano
+plasma-phonebook
+#plasma-pix
+plasma-settings
+plasmatube
+plymouth-shim
+qmlkonsole
+spacebar
+telepathy-mission-control
+#telepathy-ofono
+#vvave
+xdg-utils
+oxygen-sounds
+plasma-mobile-sounds
+
+# First run wizard
+pico-wizard-plamo-scripts
+pico-wizard-git
+
+# Packages to be built
+#qrca #no tagged release
+
+# Regular Plasma packages
+bluez
+bluedevil
+breeze
+drkonqi
+kdeconnect
+kirigami-gallery
+kinit
+kwallet-pam
+polkit-kde-agent
+powerdevil
+sddm
+kscreen
+xdg-desktop-portal-kde
+plasma-pa
+discover
+packagekit-qt5
+koko
+qqc2-breeze-style
+# peruse
+
+# Theming
+manjaro-arm-wallpapers
+manjaro-icons
+
+# Wayland stuff
+kwayland
+kwayland-integration
+xorg-server-xwayland
+
+# Other
+mesa
+alsa-utils
+pipewire-pulse
+pipewire-alsa
+pipewire-zeroconf
+wget
+xdg-user-dirs
+debianutils
+flatpak
+iio-sensor-proxy
+#manjaro-arm-flasher
+#pamac-cli
+psensor
+#firefox
+telegram-desktop
+qt5-wayland # for telegram-desktop
+megapixels
+#vim
+bootsplash-theme-kde
+breeze-gtk
+lcms2 # needed for kwin nightmode
+hfd-service
+dnsmasq
+appimagelauncher
+qt5-tools # needed for plasma-workspace to start
+glibc-locales

@@ -1,0 +1,42 @@
+## Maintained by ?? ##
+
+# Sound and Video utilities
+alsa-utils
+
+# Display Manager
+sddm
+sddm-breath2-theme
+
+# Fonts
+noto-fonts
+wqy-microhei #chinese
+
+# Themes
+kvantum-qt5
+breeze-icons
+
+# Wayfire packages
+wayfire
+wf-config
+wcm
+wf-shell
+waybar
+
+# CoreApps
+#coreaction
+#corefm
+#coregarage
+#corepad
+#corestats
+#corestuff
+#coreterminal
+
+# Other
+qt5-wayland
+networkmanager-qt
+#openresolv
+#wget
+#manjaro-settings-manager
+#power-profiles-daemon
+#manjaro-hotfixes
+matray

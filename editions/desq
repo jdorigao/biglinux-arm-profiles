@@ -1,0 +1,80 @@
+## Maintained by Strit ##
+
+# Sound, Video and bluetooth
+alsa-utils
+bluez
+wireplumber
+pipewire-pulse
+pipewire-alsa
+pipewire-zeroconf
+gst-plugin-pipewire
+
+# Display Manager
+sddm
+
+# DesQ packages
+desq-session
+desq-shell
+desq-theme
+desq-utils-disks
+desq-utils-keyring
+desq-utils-lock
+desq-utils-notifier
+desq-utils-powermanager
+desq-utils-runner
+desq-utils-sni
+desq-utils-volume
+desq-apps-archiver
+desq-apps-docs
+desq-apps-dropdown
+desq-apps-term
+
+#CoreApps
+corefm
+coregarage
+corehunt
+coreimage
+coreinfo
+#corekeyboard
+corepaint
+corepdf
+corepins
+corerenamer
+coreshot
+corestats
+coretime
+coretoppings
+coreuniverse
+
+# Fonts
+cantarell-fonts
+ttf-bitstream-vera
+wqy-microhei #chinese
+
+# Browser
+falkon
+
+# Themes
+breeze-icons
+manjaro-icons
+qt5ct
+#manjaro-arm-wallpapers
+
+# Office suite
+#calligra
+
+# Package Manager
+#pamac-qt #when it's ready
+
+# Other applications
+copyq
+networkmanager-qt
+openresolv
+manjaro-settings-manager
+manjaro-arm-flasher
+wget
+power-profiles-daemon
+manjaro-hotfixes
+xdg-user-dirs
+xorg-server
+xorg-xinit

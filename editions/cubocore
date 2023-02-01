@@ -1,0 +1,75 @@
+## Maintained by Strit ##
+
+# Sound, Video and bluetooth
+alsa-utils
+bluez
+pulseaudio-bluetooth
+
+# Display Manager
+sddm
+#matcha-dynamic-sddm
+
+#CoreApps
+paperde
+xdg-desktop-portal-kde
+xdg-desktop-portal-gtk
+xdg-desktop-portal-wlr
+coreaction
+corearchiver
+corefm
+coregarage
+corehunt
+coreimage
+coreinfo
+corekeyboard
+corepad
+corepaint
+corepdf
+corepins
+corerenamer
+coreshot
+corestats
+coreterminal
+coretime
+coretoppings
+coreuniverse
+
+
+
+# Fonts
+cantarell-fonts
+ttf-bitstream-vera
+wqy-microhei #chinese
+
+# Browser
+#falkon
+
+# Themes
+qt5ct
+kvantum-qt5
+breath2-icon-themes
+matcha-gtk-theme
+kvantum-theme-matchama
+manjaro-arm-wallpapers
+xcursor-breeze
+manjaro-icons
+
+# Office suite
+#calligra
+
+# Package Manager
+#pamac-qt #when it's ready
+
+# Manjaro tools
+manjaro-settings-manager
+manjaro-hotfixes
+manjaro-arm-flasher
+manjaro-arm-installer
+
+# Other applications
+upower #for battery detection
+openresolv
+wget
+power-profiles-daemon
+xdg-user-dirs
+networkmanager-qt

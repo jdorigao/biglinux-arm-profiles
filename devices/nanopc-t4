@@ -1,0 +1,13 @@
+## Maintained by Strit ##
+
+# Kernel and bootloader stuff
+linux
+uboot-nanopc-t4
+bootsplash-theme-manjaro
+bootsplash-systemd
+
+# Video drivers
+
+# Other device specific packages
+generic-post-install
+nanopc-t4-post-install

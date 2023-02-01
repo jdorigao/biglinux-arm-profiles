@@ -1,0 +1,22 @@
+## Maintained by Strit ##
+
+# Kernel and bootloader stuff
+linux
+uboot-pinetab
+bootsplash-theme-manjaro
+bootsplash-systemd
+
+# Video drivers
+
+# Audio configs
+alsa-ucm-pinephone
+
+# Other device specific packages
+crda
+anx7688-firmware
+ov5640-firmware
+rtl8723bt-firmware
+wpa_supplicant
+wireless-regdb
+pinetab-post-install
+pinephone-manjaro-tweaks

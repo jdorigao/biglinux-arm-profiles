@@ -1,0 +1,15 @@
+## Maintained by Spikerguy ##
+
+# Kernel and bootloader stuff
+linux
+uboot-edge-v
+plymouth
+plymouth-theme-manjaro
+
+# Video drivers
+
+# Other device specific packages
+crda
+generic-post-install
+nanopc-t4-post-install
+ap6398s-firmware

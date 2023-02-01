@@ -1,0 +1,24 @@
+## Maintained by Spikerguy and Philm ##
+
+linux-pinephonepro
+#linux-pinephonepro-headers
+uboot-pinephonepro
+#plymouth
+#plymouth-theme-manjaro
+bootsplash-theme-manjaro
+bootsplash-systemd
+anx7688-firmware
+#rockchip-firmware
+firmware-raspberrypi
+
+# Audio configs
+pinephone-modem-scripts
+alsa-ucm-pinephone
+
+# Other device specific packages
+wpa_supplicant
+pinephonepro-post-install
+pinephonepro-manjaro-tweaks
+
+# Camera
+megapixels-ppp

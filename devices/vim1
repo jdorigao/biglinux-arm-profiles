@@ -1,0 +1,17 @@
+## Maintained by Spikerguy ##
+
+# Kernel and bootloader stuff
+linux-aml
+uboot-vim1
+plymouth
+plymouth-theme-manjaro
+
+# Video driver
+
+# Other device specific packages
+crda
+#bluetooth-vim3
+fbset
+kvim1-firmware
+generic-post-install
+vim1-post-install

@@ -1,0 +1,11 @@
+## Maintained by Strit ##
+
+# Server packages
+apache
+mariadb
+php
+php-apache
+php-fpm
+certbot-apache
+docker
+manjaro-hotfixes

@@ -1,0 +1,18 @@
+## Maintained by Strit ##
+
+# Kernel and bootloader stuff
+linux
+linux-headers
+uboot-pine-h64
+plymouth
+plymouth-theme-manjaro
+
+# Video drivers
+# xf86-video-fbdev
+
+# Other device specific packages
+crda
+rtl8723bt-firmware
+wpa_supplicant
+generic-post-install
+pinebook-post-install

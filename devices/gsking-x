@@ -1,0 +1,18 @@
+## Maintained by Spikerguy ##
+
+# Kernel and bootloader stuff
+linux-odroid
+boot-gsking-x
+plymouth
+plymouth-theme-manjaro
+
+# Video driver
+
+# Other device specific packages
+crda
+kvim2-firmware
+#bluetooth-vim3
+#khadas-utils
+#fbset
+generic-post-install
+gtking-pro-post-install

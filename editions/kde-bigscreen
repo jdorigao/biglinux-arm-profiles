@@ -1,0 +1,68 @@
+#Base PKG'S
+sddm
+networkmanager
+
+# Sound, Video and Bluetooth
+alsa-utils
+smplayer
+pulseaudio-alsa
+pulseaudio-bluetooth
+
+#Pico Pkgs
+pico-wizard-git
+pico-wizard-bigscreen-scripts
+pico-wizard-bigscreen-configs
+
+#KDE PKG'S
+kscreen
+kactivities
+kcmutils
+kdeclarative
+ki18n
+kio
+knotifications
+kwindowsystem
+kwin
+kirigami2
+plasma-framework
+plasma-workspace
+plasma-nm
+plasma-pa
+plasma-nano
+plasma-settings
+konsole
+kdeconnect
+firefox
+falkon
+kate
+dolphin
+bluedevil
+powerdevil
+ark
+okular
+gwenview
+pamac-gtk
+pamac-tray-icon-plasma
+
+
+#Bigscreen PKG'S
+plasma-bigscreen
+aura-browser
+plank-player
+bigscreen-image-settings
+bigscreen-post-install
+mycroft-bigscreen
+mycroft-skill-installer
+mycroft-gui
+
+#Other PKG'S
+>rpi4 libcec-rpi
+python
+python-cec
+python-psutil
+python-uinput
+python-pyqt5
+dbus-python
+openresolv
+plasma-remotecontrollers
+>rpi4 raspberrypi-bigscreen-resolution-fix

@@ -1,0 +1,16 @@
+## Maintained by Spikerguy ##
+
+# Kernel and bootloader stuff
+linux
+uboot-nanopi-neo-plus2
+bootsplash-theme-manjaro
+bootsplash-systemd
+
+# Video drivers
+xf86-video-fbdev
+
+# Other device specific packages
+crda
+kvim1-firmware
+generic-post-install
+pinebook-post-install

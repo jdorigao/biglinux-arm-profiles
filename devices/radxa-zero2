@@ -1,0 +1,16 @@
+## Maintained by Strit ##
+
+# Kernel and bootloader stuff
+linux-aml
+uboot-radxa-zero2
+plymouth
+plymouth-theme-manjaro
+
+# Video driver
+
+# Other device specific packages
+crda
+ap6256-firmware
+fbset
+generic-post-install
+radxa-zero2-post-install

@@ -1,0 +1,122 @@
+## Maintained by Bernhard ##
+
+# Phone specific packages
+>pinephone modemmanager-pp
+>pinephone plasma-dialer
+>pinephone noto-fonts-cjk # needed to display * and # in dialer
+
+# OpenGLES qt packages
+qt5-es2-base
+qt5-es2-declarative
+qt5-es2-multimedia
+pyside2-es2
+
+# Multimedia packages
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-ugly
+#ffmpeg-pp
+maui-clip
+
+# Image packages
+kio-extras
+kdegraphics-thumbnailers
+libappimage
+ffmpegthumbs
+
+# Personal assistance
+#mycroft-gui-git
+
+# PM Packages
+angelfish
+calindori
+desktop-file-utils
+index-fm
+kaccounts-providers
+kalk
+kclock
+kio-extras
+kpeoplesink
+krecorder
+kweather
+kwin
+maliit-framework
+maliit-keyboard
+mauikit
+noto-fonts-emoji
+anthy #fix japanese
+libpinyin #fix chinese
+libchewing #fix chinese
+maui-nota
+okular
+oxygen-sounds
+plasma-mobile-nm
+plasma-mobile-settings
+plasma-nano
+plasma-phone-components
+plasma-phonebook
+#plasma-pix
+plasma-settings
+plymouth-shim
+qmlkonsole
+spacebar
+telepathy-mission-control
+xdg-utils
+
+# First run wizard
+pico-wizard-plamo-scripts
+pico-wizard-git
+
+# Packages to be built
+#qrca #no tagged release
+#plasmatube #no tagged release
+
+# Regular Plasma packages
+bluez
+bluedevil
+breeze
+drkonqi
+elisa-qtmm
+kdeconnect
+kinit
+kwallet-pam
+polkit-kde-agent
+powerdevil
+sddm
+kscreen
+xdg-desktop-portal-kde
+plasma-pa
+discover
+packagekit-qt5
+koko
+qqc2-breeze-style
+# peruse
+
+# Theming
+manjaro-arm-wallpapers
+manjaro-icons
+
+# Wayland stuff
+kwayland
+kwayland-integration
+xorg-server-xwayland
+pipewire-media-session
+
+# Other
+mesa
+alsa-utils
+pulseaudio-bluetooth
+wget
+xdg-user-dirs
+debianutils
+flatpak
+iio-sensor-proxy
+megapixels
+bootsplash-theme-kde
+breeze-gtk
+lcms2 # needed for kwin nightmode
+hfd-service
+dnsmasq
+appimagelauncher
+glibc-locales

@@ -1,0 +1,16 @@
+## Maintained by Spikerguy ##
+
+# Kernel and bootloader stuff
+linux-aml
+uboot-vim3l
+plymouth
+plymouth-theme-manjaro
+
+# Video driver
+
+# Other device specific packages
+crda
+ap6398s-firmware
+fbset
+generic-post-install
+vim3l-post-install

@@ -1,0 +1,68 @@
+## Maintained by Strit ##
+
+# Audio and video
+alsa-firmware
+alsa-utils
+pulseaudio-bluetooth
+pulseaudio-zeroconf
+
+# Xorg
+xorg-server
+xorg-xinit
+xorg-xclock
+xterm
+
+# Display Manager
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+accountsservice
+
+# Jade edition packages
+jade-menu-data
+jadesktop
+python-jade-application-kit
+web-installer-url-handler
+software-center-web-jak
+dex
+dunst
+firefox
+guake
+nautilus
+gedit
+lxqt-powermanagement
+light-locker
+lxappearance-gtk3
+blueberry
+plank
+gala
+tint2
+polkit-gnome
+qt5-styleplugins
+
+# Themes
+matcha-gtk-theme
+papirus-maia-icon-theme
+xcursor-breeze
+kvantum-theme-matchama
+kvantum-qt5
+
+# Package Manager
+pamac-gtk
+
+# Fonts
+ttf-roboto
+adobe-source-code-pro-fonts
+
+# Other packages
+networkmanager
+manjaro-settings-manager
+manjaro-hotfixes
+ntp
+openresolv
+netctl
+networkmanager-openconnect
+xdg-user-dirs
+xdg-user-dirs-gtk
+xdg-utils
+

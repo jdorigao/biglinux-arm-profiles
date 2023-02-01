@@ -1,0 +1,18 @@
+## Maintained by Strit ##
+
+# Kernel and bootloader stuff
+linux515
+boot-generic-efi
+efibootmgr
+grub
+plymouth
+plymouth-theme-manjaro
+
+# Video drivers
+
+# Other device specific packages
+crda
+linux-firmware
+ap6256-firmware
+generic-efi-post-install
+generic-post-install

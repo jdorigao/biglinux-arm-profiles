@@ -1,0 +1,19 @@
+## Maintained by Spikerguy ##
+
+# Kernel and bootloader stuff
+linux
+boot-gt1-ultimate
+plymouth
+plymouth-theme-manjaro
+
+# Video driver
+#xf86-video-fbdev
+
+# Other device specific packages
+crda
+#bluetooth-vim3
+#khadas-utils
+kvim2-firmware
+fbset
+generic-post-install
+gt1-ultimate-post-install

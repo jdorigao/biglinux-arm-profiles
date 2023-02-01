@@ -1,0 +1,101 @@
+## Maintained by Darksky ##
+
+# Sound, video and bluetooth
+pavucontrol
+pulseaudio-alsa
+alsa-utils
+smplayer
+bluez
+bluez-utils
+blueman
+wireplumber
+pipewire-alsa
+pipewire-pulse
+pipewire-zeroconf
+gst-plugin-pipewire
+gst-libav
+libva-v4l2-request
+manjaro-hotfixes
+
+# Display Manager
+lightdm
+lightdm-gtk-greeter
+lightdm-gtk-greeter-settings
+
+# Mate packages
+networkmanager
+network-manager-applet
+dhclient
+caja
+caja-open-terminal
+marco
+mate-calc
+mate-desktop
+mate-menus
+mate-media
+mate-panel
+mate-polkit
+mate-settings-daemon
+mate-control-center
+mate-session-manager
+mate-notification-daemon
+mate-system-monitor
+mate-terminal
+mate-tweak
+mate-utils
+mate-power-manager
+mate-screensaver
+engrampa
+audacious
+pluma
+xpdf
+viewnior
+mpv
+ffmpeg
+usb_modeswitch
+
+# Themes
+papirus-maia-icon-theme
+qt5ct
+kvantum-qt5 
+kvantum-theme-matchama
+matcha-gtk-theme
+manjaro-arm-wallpapers
+
+# Browser
+firefox
+firefox-ublock-origin
+
+# Office suite
+#libreoffice-fresh
+
+# Package Manager
+pamac-gtk
+
+# Fonts
+ttf-bitstream-vera
+noto-fonts
+wqy-microhei #chinese
+
+# Other packages
+manjaro-settings-manager
+wget
+power-profiles-daemon
+xdg-user-dirs
+cpu-temp-speed
+htop
+
+# File systems access
+manjaro-settings-samba
+gvfs
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
+ifuse
+mtpfs
+# matray # disabled due to shutdown issue
+mesa-utils
+xorg-xdpyinfo
+xorg-server
+xorg-xinit
