@@ -23,8 +23,8 @@ kcalc
 kscreen
 kscreenlocker
 kwallet-pam
-kwayland-integration
-plasma-wayland-session
+#kwayland-integration
+#plasma-wayland-session
 kwin
 plasma-desktop
 plasma-nm
