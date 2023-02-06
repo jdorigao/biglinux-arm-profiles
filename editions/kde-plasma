@@ -86,4 +86,4 @@ networkmanager-openvpn
 firewalld
 xorg-server
 xorg-xinit
-x11vnc
+tigervnc
