@@ -87,3 +87,7 @@ firewalld
 xorg-server
 xorg-xinit
 tigervnc
+
+# BigLinux
+onboard
+sddm-theme-biglinux
