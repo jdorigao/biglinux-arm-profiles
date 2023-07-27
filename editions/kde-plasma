@@ -5,6 +5,7 @@ alsa-utils
 mpv
 wireplumber
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 gst-plugin-pipewire
@@ -86,7 +87,6 @@ networkmanager-openvpn
 firewalld
 xorg-server
 xorg-xinit
-tigervnc
 
 # BigLinux
 # onboard
