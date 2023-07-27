@@ -89,5 +89,5 @@ xorg-xinit
 tigervnc
 
 # BigLinux
-onboard
-sddm-theme-biglinux
+# onboard
+# sddm-theme-biglinux
