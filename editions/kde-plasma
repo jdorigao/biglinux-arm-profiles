@@ -89,5 +89,5 @@ xorg-server
 xorg-xinit
 
 # BigLinux
-# onboard
-# sddm-theme-biglinux
+onboard
+sddm-theme-biglinux
