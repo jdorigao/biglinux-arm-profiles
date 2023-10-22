@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Sound, Video and bluetooth
+# do not edit, this file is generated automatically.
 alsa-utils
 mpv
 wireplumber
@@ -11,10 +14,12 @@ pipewire-zeroconf
 gst-plugin-pipewire
 
 # Display Manager
+# do not edit, this file is generated automatically.
 sddm
 sddm-kcm
 
 # Plasma packages
+# do not edit, this file is generated automatically.
 bluedevil
 breeze
 drkonqi
@@ -24,8 +29,8 @@ kcalc
 kscreen
 kscreenlocker
 kwallet-pam
-#kwayland-integration
-#plasma-wayland-session
+kwayland-integration
+plasma-wayland-session
 kwin
 plasma-desktop
 plasma-nm
@@ -38,6 +43,7 @@ plasma-vault
 plasma-firewall
 
 # KDE applications
+# do not edit, this file is generated automatically.
 dolphin
 dolphin-plugins
 kate
@@ -48,6 +54,7 @@ gwenview
 spectacle
 
 # Themes
+# do not edit, this file is generated automatically.
 plasma5-themes-breath
 sddm-breath-theme
 manjaro-arm-wallpapers
@@ -56,22 +63,29 @@ manjaro-icons
 
 
 # Office suite
+# do not edit, this file is generated automatically.
 #libreoffice-fresh
+# do not edit, this file is generated automatically.
 
 # Browser
+# do not edit, this file is generated automatically.
 firefox
 firefox-ublock-origin
 
 # Package Manager
+# do not edit, this file is generated automatically.
 pamac-gtk
 pamac-tray-icon-plasma
 
 # Fonts
+# do not edit, this file is generated automatically.
 ttf-bitstream-vera
 noto-fonts
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 # Manjaro tools
+# do not edit, this file is generated automatically.
 manjaro-settings-manager
 manjaro-hotfixes
 manjaro-arm-flasher
@@ -79,6 +93,7 @@ manjaro-arm-installer
 matray
 
 # Other packages
+# do not edit, this file is generated automatically.
 openresolv
 wget
 power-profiles-daemon
@@ -89,5 +104,7 @@ xorg-server
 xorg-xinit
 
 # BigLinux
+# do not edit, this file is generated automatically.
 onboard
 sddm-theme-biglinux
+# do not edit, this file is generated automatically.

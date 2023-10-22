@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 ## Shared packages for all editions
+# do not edit, this file is generated automatically.
 sudo
 parted
 openssh
@@ -18,3 +21,4 @@ irqbalance
 btrfs-progs
 f2fs-tools
 exfatprogs
+# do not edit, this file is generated automatically.

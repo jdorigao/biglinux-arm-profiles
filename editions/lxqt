@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Sound, Video and bluetooth
+# do not edit, this file is generated automatically.
 pavucontrol-qt
 pulseaudio-alsa
 alsa-utils
@@ -17,11 +20,13 @@ gst-libav
 libva-v4l2-request
 
 # Display Manager
+# do not edit, this file is generated automatically.
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 
 # LXQT packages
+# do not edit, this file is generated automatically.
 networkmanager
 network-manager-applet
 dhclient
@@ -46,10 +51,13 @@ openbox
 obconf-qt
 lxappearance-gtk3
 xarchiver #to get archive extracting working
+# do not edit, this file is generated automatically.
 unzip #to support zip file extraction
+# do not edit, this file is generated automatically.
 
 # Themes
-kvantum-qt5
+# do not edit, this file is generated automatically.
+kvantum
 qt5ct
 papirus-maia-icon-theme
 xcursor-breeze
@@ -59,10 +67,12 @@ manjaro-arm-wallpapers
 manjaro-icons
 
 # Browser
+# do not edit, this file is generated automatically.
 firefox
 firefox-ublock-origin
 
 # File systems access
+# do not edit, this file is generated automatically.
 gvfs
 gvfs-gphoto2
 gvfs-mtp
@@ -73,17 +83,23 @@ mtpfs
 ntfs-3g
 
 # Office suite
+# do not edit, this file is generated automatically.
 #libreoffice-fresh
+# do not edit, this file is generated automatically.
 
 # Package Manager
+# do not edit, this file is generated automatically.
 pamac-gtk
 
 # Fonts
+# do not edit, this file is generated automatically.
 ttf-bitstream-vera
 noto-fonts
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 # Manjaro tools
+# do not edit, this file is generated automatically.
 manjaro-settings-manager
 manjaro-hotfixes
 manjaro-settings-samba
@@ -91,13 +107,16 @@ manjaro-arm-flasher
 manjaro-arm-installer
 
 # Other packages
+# do not edit, this file is generated automatically.
 #openresolv
+# do not edit, this file is generated automatically.
 wget
 featherpad
 power-profiles-daemon
 htop
 mesa-demos
 audacious
+audacious-plugins
 xdg-utils
 xdg-user-dirs
 mpg123
@@ -108,3 +127,4 @@ man-db
 matray
 mesa-utils
 xorg-xdpyinfo
+# do not edit, this file is generated automatically.

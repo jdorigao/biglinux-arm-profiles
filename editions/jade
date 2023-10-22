@@ -1,24 +1,30 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Audio and video
+# do not edit, this file is generated automatically.
 alsa-firmware
 alsa-utils
 pulseaudio-bluetooth
 pulseaudio-zeroconf
 
 # Xorg
+# do not edit, this file is generated automatically.
 xorg-server
 xorg-xinit
 xorg-xclock
 xterm
 
 # Display Manager
+# do not edit, this file is generated automatically.
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 accountsservice
 
 # Jade edition packages
+# do not edit, this file is generated automatically.
 jade-menu-data
 jadesktop
 python-jade-application-kit
@@ -41,20 +47,24 @@ polkit-gnome
 qt5-styleplugins
 
 # Themes
+# do not edit, this file is generated automatically.
 matcha-gtk-theme
 papirus-maia-icon-theme
 xcursor-breeze
 kvantum-theme-matchama
-kvantum-qt5
+kvantum
 
 # Package Manager
+# do not edit, this file is generated automatically.
 pamac-gtk
 
 # Fonts
+# do not edit, this file is generated automatically.
 ttf-roboto
 adobe-source-code-pro-fonts
 
 # Other packages
+# do not edit, this file is generated automatically.
 networkmanager
 manjaro-settings-manager
 manjaro-hotfixes
@@ -66,3 +76,4 @@ xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
 
+# do not edit, this file is generated automatically.

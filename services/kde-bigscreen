@@ -1,3 +1,4 @@
+# do not edit, this file is generated automatically.
 sshd.service
 sddm.service
 NetworkManager.service
@@ -8,4 +9,7 @@ zswap-arm.service
 systemd-oomd.service
 bigscreen-post-install.service
 #auto-resolution.service #Started by the package itself
+# do not edit, this file is generated automatically.
 #cec-daemon.service	 #Started by the package itself
+# do not edit, this file is generated automatically.
+# do not edit, this file is generated automatically.

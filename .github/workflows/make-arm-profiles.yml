@@ -1,0 +1,68 @@
+name: Make ARM Profiles
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches: [ "*" ]
+    
+  schedule:
+    - cron:  '0 0 * * 5'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Clone manjaro ARM Profiles
+        shell: bash
+        run: |
+          if [ -e "manjaro-arm-profiles" ];then
+            sudo rm -r manjaro-arm-profiles
+          fi
+          git clone https://gitlab.manjaro.org/manjaro-arm/applications/arm-profiles manjaro-arm-profiles
+      
+      - name: Add and Remove in files
+        shell: bash
+        run: |
+          for folder in devices editions services; do
+            for file in $(find manjaro-arm-profiles/$folder -type f -exec basename {} \;); do
+              #add
+              cat manjaro-arm-profiles/$folder/$file biglinux-make-arm-profiles/$folder/$file-add > $folder/$file
+              #remove
+              grep -v -f biglinux-make-arm-profiles/$folder/$file-remove $folder/$file > $folder/$file-tmp
+              mv $folder/$file-tmp $folder/$file
+              # add text do not edit.
+              sed -i '/#/{p;s/.*/# do not edit, this file is generated automatically./;}' $folder/$file
+              if [ -z "$(grep "#do not edit, this file is generated automatically." $folder/$file)" ];then
+                sed -i '1i\# do not edit, this file is generated automatically.' $folder/$file
+                echo "# do not edit, this file is generated automatically." >> $folder/$file
+              fi
+            done
+          done
+          
+      # - name: 
+      #   shell: bash
+      #   run: |
+          
+          
+          
+      - name: Clean
+        shell: bash
+        run: |
+          sudo rm -r manjaro-arm-profiles
+          
+      - name: Update github
+        run: |
+          git add --all
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          if [ -n "$(git commit -m "$(date +%d/%m/%Y)" -a | grep "nothing to commit")" ];then exit 0; fi
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+          

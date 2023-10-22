@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Sound, Video and bluetooth
+# do not edit, this file is generated automatically.
 alsa-utils
 bluez
 wireplumber
@@ -10,9 +13,11 @@ pipewire-zeroconf
 gst-plugin-pipewire
 
 # Display Manager
+# do not edit, this file is generated automatically.
 sddm
 
 # DesQ packages
+# do not edit, this file is generated automatically.
 desq-session
 desq-shell
 desq-theme
@@ -30,12 +35,14 @@ desq-apps-dropdown
 desq-apps-term
 
 #CoreApps
+# do not edit, this file is generated automatically.
 corefm
 coregarage
 corehunt
 coreimage
 coreinfo
 #corekeyboard
+# do not edit, this file is generated automatically.
 corepaint
 corepdf
 corepins
@@ -47,26 +54,36 @@ coretoppings
 coreuniverse
 
 # Fonts
+# do not edit, this file is generated automatically.
 cantarell-fonts
 ttf-bitstream-vera
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 # Browser
+# do not edit, this file is generated automatically.
 falkon
 
 # Themes
+# do not edit, this file is generated automatically.
 breeze-icons
 manjaro-icons
 qt5ct
 #manjaro-arm-wallpapers
+# do not edit, this file is generated automatically.
 
 # Office suite
+# do not edit, this file is generated automatically.
 #calligra
+# do not edit, this file is generated automatically.
 
 # Package Manager
+# do not edit, this file is generated automatically.
 #pamac-qt #when it's ready
+# do not edit, this file is generated automatically.
 
 # Other applications
+# do not edit, this file is generated automatically.
 copyq
 networkmanager-qt
 openresolv
@@ -78,3 +95,4 @@ manjaro-hotfixes
 xdg-user-dirs
 xorg-server
 xorg-xinit
+# do not edit, this file is generated automatically.

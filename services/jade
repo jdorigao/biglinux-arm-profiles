@@ -1,6 +1,8 @@
+# do not edit, this file is generated automatically.
 sshd.service
 lightdm.service
 NetworkManager.service
 zswap-arm.service
 bootsplash-hide-when-booted.service
 bootsplash-show-on-shutdown.service
+# do not edit, this file is generated automatically.

@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Server packages
+# do not edit, this file is generated automatically.
 apache
 mariadb
 php
@@ -9,3 +12,4 @@ php-fpm
 certbot-apache
 docker
 manjaro-hotfixes
+# do not edit, this file is generated automatically.

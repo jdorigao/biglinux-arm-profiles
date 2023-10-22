@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Darksky ##
+# do not edit, this file is generated automatically.
 
 # Sound, video and bluetooth
+# do not edit, this file is generated automatically.
 pavucontrol
 pulseaudio-alsa
 alsa-utils
@@ -10,6 +13,7 @@ bluez-utils
 blueman
 wireplumber
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 gst-plugin-pipewire
@@ -18,11 +22,13 @@ libva-v4l2-request
 
 
 # Display Manager
+# do not edit, this file is generated automatically.
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 
 ## Network
+# do not edit, this file is generated automatically.
 avahi
 networkmanager
 network-manager-applet
@@ -31,9 +37,11 @@ manjaro-hotfixes
 manjaro-settings-samba
 
 ## XFCE Group
+# do not edit, this file is generated automatically.
 exo
 garcon
 #gtk-xfce-engine
+# do not edit, this file is generated automatically.
 thunar
 thunar-volman
 tumbler
@@ -48,13 +56,16 @@ xfdesktop
 xfwm4
 xfce4-screensaver
 # xfwm4-themes
+# do not edit, this file is generated automatically.
 
 ## XFCE Extras
+# do not edit, this file is generated automatically.
 thunar-archive-plugin
 thunar-media-tags-plugin
 mugshot
 
 # xfce4-artwork
+# do not edit, this file is generated automatically.
 xfce4-battery-plugin
 xfce4-clipman-plugin
 xfce4-datetime-plugin
@@ -68,6 +79,7 @@ xfce4-notes-plugin
 xfce4-notifyd
 xfce4-screenshooter
 # xfce4-smartbookmark-plugin
+# do not edit, this file is generated automatically.
 xfce4-systemload-plugin
 xfce4-taskmanager
 xfce4-time-out-plugin
@@ -80,8 +92,9 @@ xfce4-xkb-plugin
 xfce4-pulseaudio-plugin
 
 ## Themes
+# do not edit, this file is generated automatically.
 qt5ct
-kvantum-qt5
+kvantum
 kvantum-theme-matchama
 matcha-gtk-theme
 manjaro-arm-wallpapers
@@ -89,24 +102,32 @@ papirus-maia-icon-theme
 xcursor-breeze
 
 # Browser
+# do not edit, this file is generated automatically.
 firefox
 firefox-ublock-origin
 
 # Office suite
+# do not edit, this file is generated automatically.
 #libreoffice-fresh
+# do not edit, this file is generated automatically.
 
 # Package Manager
-pamac-gtk
+# do not edit, this file is generated automatically.
+pamac-gtk3
 
 # Fonts
+# do not edit, this file is generated automatically.
 ttf-bitstream-vera
 noto-fonts
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 ## Applications
+# do not edit, this file is generated automatically.
 engrampa
 galculator
 audacious
+audacious-plugins
 htop
 qpdf
 manjaro-settings-manager
@@ -121,6 +142,7 @@ mesa-utils
 xorg-xdpyinfo
 
 # File systems access
+# do not edit, this file is generated automatically.
 gvfs
 gvfs-gphoto2
 gvfs-mtp
@@ -133,16 +155,22 @@ ffmpeg
 usb_modeswitch
 
 # Optional dependencies engrampa
+# do not edit, this file is generated automatically.
 p7zip  # 7Z and ARJ archive support
+# do not edit, this file is generated automatically.
 unrar  # RAR archive support
+# do not edit, this file is generated automatically.
 
 ## Xorg Input Drivers
+# do not edit, this file is generated automatically.
 xf86-input-elographics
 #xf86-input-evdev
+# do not edit, this file is generated automatically.
 xf86-input-libinput
 xf86-input-void
 
 ## Xorg Server and Graphics
+# do not edit, this file is generated automatically.
 xdg-user-dirs
 xorg-server
 numlockx
@@ -151,4 +179,6 @@ xorg-xinit
 xorg-xkill
 
 ## Desktop Utils
+# do not edit, this file is generated automatically.
 xdg-utils
+# do not edit, this file is generated automatically.

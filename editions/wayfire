@@ -1,21 +1,29 @@
+# do not edit, this file is generated automatically.
 ## Maintained by ?? ##
+# do not edit, this file is generated automatically.
 
 # Sound and Video utilities
+# do not edit, this file is generated automatically.
 alsa-utils
 
 # Display Manager
+# do not edit, this file is generated automatically.
 sddm
 sddm-breath2-theme
 
 # Fonts
+# do not edit, this file is generated automatically.
 noto-fonts
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 # Themes
-kvantum-qt5
+# do not edit, this file is generated automatically.
+kvantum
 breeze-icons
 
 # Wayfire packages
+# do not edit, this file is generated automatically.
 wayfire
 wf-config
 wcm
@@ -23,20 +31,35 @@ wf-shell
 waybar
 
 # CoreApps
+# do not edit, this file is generated automatically.
 #coreaction
+# do not edit, this file is generated automatically.
 #corefm
+# do not edit, this file is generated automatically.
 #coregarage
+# do not edit, this file is generated automatically.
 #corepad
+# do not edit, this file is generated automatically.
 #corestats
+# do not edit, this file is generated automatically.
 #corestuff
+# do not edit, this file is generated automatically.
 #coreterminal
+# do not edit, this file is generated automatically.
 
 # Other
+# do not edit, this file is generated automatically.
 qt5-wayland
 networkmanager-qt
 #openresolv
+# do not edit, this file is generated automatically.
 #wget
+# do not edit, this file is generated automatically.
 #manjaro-settings-manager
+# do not edit, this file is generated automatically.
 #power-profiles-daemon
+# do not edit, this file is generated automatically.
 #manjaro-hotfixes
+# do not edit, this file is generated automatically.
 matray
+# do not edit, this file is generated automatically.

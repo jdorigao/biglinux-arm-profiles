@@ -1,15 +1,21 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Sound, Video and bluetooth
+# do not edit, this file is generated automatically.
 alsa-utils
 bluez
 pulseaudio-bluetooth
 
 # Display Manager
+# do not edit, this file is generated automatically.
 sddm
 #matcha-dynamic-sddm
+# do not edit, this file is generated automatically.
 
 #CoreApps
+# do not edit, this file is generated automatically.
 paperde
 xdg-desktop-portal-kde
 xdg-desktop-portal-gtk
@@ -37,16 +43,21 @@ coreuniverse
 
 
 # Fonts
+# do not edit, this file is generated automatically.
 cantarell-fonts
 ttf-bitstream-vera
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 # Browser
+# do not edit, this file is generated automatically.
 #falkon
+# do not edit, this file is generated automatically.
 
 # Themes
+# do not edit, this file is generated automatically.
 qt5ct
-kvantum-qt5
+kvantum
 breath2-icon-themes
 matcha-gtk-theme
 kvantum-theme-matchama
@@ -55,21 +66,29 @@ xcursor-breeze
 manjaro-icons
 
 # Office suite
+# do not edit, this file is generated automatically.
 #calligra
+# do not edit, this file is generated automatically.
 
 # Package Manager
+# do not edit, this file is generated automatically.
 #pamac-qt #when it's ready
+# do not edit, this file is generated automatically.
 
 # Manjaro tools
+# do not edit, this file is generated automatically.
 manjaro-settings-manager
 manjaro-hotfixes
 manjaro-arm-flasher
 manjaro-arm-installer
 
 # Other applications
+# do not edit, this file is generated automatically.
 upower #for battery detection
+# do not edit, this file is generated automatically.
 openresolv
 wget
 power-profiles-daemon
 xdg-user-dirs
 networkmanager-qt
+# do not edit, this file is generated automatically.

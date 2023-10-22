@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Furkan and Philip ##
+# do not edit, this file is generated automatically.
 
 # Phone specific packages
+# do not edit, this file is generated automatically.
 >pinephone ofono
 >pinephone ofonoctl
 >pinephone libqofono-qt5
@@ -9,13 +12,8 @@
 qmenumodel-git
 sensorfw-git
 
-# Qt5 ES2 (can be enabled)
-qt5-es2-base
-qt5-es2-declarative
-qt5-es2-multimedia
-qt5-es2-wayland
-
 # PM Packages
+# do not edit, this file is generated automatically.
 hfd-service-git
 lomiri-mobile-session
 lightdm-lomiri
@@ -28,30 +26,41 @@ telepathy-ofono
 qt5-wayland
 maliit-framework
 #maliit-keyboard-git
+# do not edit, this file is generated automatically.
 lomiri-keyboard-git
 
 # Packages to be built
+# do not edit, this file is generated automatically.
 #qrca
+# do not edit, this file is generated automatically.
 #keysmith
+# do not edit, this file is generated automatically.
 #alligator
+# do not edit, this file is generated automatically.
 
 # Regular Plasma packages
+# do not edit, this file is generated automatically.
 bluez
 bluedevil
 
 # Phosh packages
+# do not edit, this file is generated automatically.
 #gnome-software-mobile
+# do not edit, this file is generated automatically.
 flashlight
 megapixels
 
 # Theming
+# do not edit, this file is generated automatically.
 manjaro-arm-wallpapers
 manjaro-icons
 
 # Wayland stuff
+# do not edit, this file is generated automatically.
 xorg-server-xwayland
 
 # Indicators
+# do not edit, this file is generated automatically.
 ayatana-indicator-session-git
 ayatana-indicator-display-git
 ayatana-indicator-notifications-git
@@ -60,6 +69,7 @@ ayatana-indicator-sound-git
 ayatana-indicator-power-git
 ayatana-indicator-datetime-git
 libaccounts-glib # dep of datetime
+# do not edit, this file is generated automatically.
 ayatana-indicator-power-git
 indicator-network-git
 lomiri-indicator-transfer-git
@@ -67,10 +77,12 @@ lomiri-indicator-location-git
 lomiri-indicator-bluetooth-git
 
 # GPS
+# do not edit, this file is generated automatically.
 location-service-git
 gpsd
 
 # Other
+# do not edit, this file is generated automatically.
 power-profiles-daemon
 alsa-utils
 wget
@@ -80,6 +92,7 @@ flatpak
 iio-sensor-proxy
 
 # Lomiri
+# do not edit, this file is generated automatically.
 repowerd-git
 unity-system-compositor-git
 lcov
@@ -125,8 +138,10 @@ lomiri-sounds
 inputcontext-gtk
 
 # Lomiri Apps
+# do not edit, this file is generated automatically.
 dialer-app-git
 #camera-app-git
+# do not edit, this file is generated automatically.
 messaging-app-git
 lomiri-terminal-app-git
 lomiri-filemanager-app-git
@@ -139,8 +154,12 @@ lomiri-gallery-app-git
 unav
 
 # GTK3
+# do not edit, this file is generated automatically.
 gtk3-mobile # use mobile version to scale properly
+# do not edit, this file is generated automatically.
 
 #temp packages
+# do not edit, this file is generated automatically.
 imagemagick
 pamac-cli
+# do not edit, this file is generated automatically.

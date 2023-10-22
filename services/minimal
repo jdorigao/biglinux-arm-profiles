@@ -1,3 +1,4 @@
+# do not edit, this file is generated automatically.
 systemd-networkd.service
 dhcpcd.service
 sshd.service
@@ -7,3 +8,4 @@ systemd-oomd.service
 irqbalance.service
 bootsplash-hide-when-booted.service
 bootsplash-show-on-shutdown.service
+# do not edit, this file is generated automatically.

@@ -1,16 +1,22 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Spikerguy ##
+# do not edit, this file is generated automatically.
 
 # Kernel and bootloader stuff
+# do not edit, this file is generated automatically.
 linux
 uboot-nanopi-neo-plus2
 bootsplash-theme-manjaro
 bootsplash-systemd
 
 # Video drivers
+# do not edit, this file is generated automatically.
 xf86-video-fbdev
 
 # Other device specific packages
+# do not edit, this file is generated automatically.
 crda
 kvim1-firmware
 generic-post-install
 pinebook-post-install
+# do not edit, this file is generated automatically.

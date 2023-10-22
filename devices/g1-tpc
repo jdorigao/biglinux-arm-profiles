@@ -1,7 +1,11 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Spikerguy ##
+# do not edit, this file is generated automatically.
 #G1 Tiny PC S905X3
+# do not edit, this file is generated automatically.
 
 # Kernel and bootloader stuff
+# do not edit, this file is generated automatically.
 linux-aml
 linux-aml-headers
 uboot-g1
@@ -9,14 +13,17 @@ plymouth
 plymouth-theme-manjaro
 
 # Other device specific packages
+# do not edit, this file is generated automatically.
 rtl8723ds-dkms-git
 generic-post-install
 am6-plus-post-install
 
 # Additional Softwares for testing image.
+# do not edit, this file is generated automatically.
 libreoffice-fresh
 chromium
 bleachbit
 remmina
 freerdp
 libvncserver
+# do not edit, this file is generated automatically.

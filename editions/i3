@@ -1,5 +1,8 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Oberon ##
+# do not edit, this file is generated automatically.
 ## i3 Edition packages ##
+# do not edit, this file is generated automatically.
 
 accountsservice
 alsa-firmware
@@ -9,11 +12,13 @@ blueman
 bluez-utils
 cantarell-fonts
 #clipit
+# do not edit, this file is generated automatically.
 #deluge
+# do not edit, this file is generated automatically.
 dfc
 dhcpcd
 dmidecode
-epdfview
+mupdf
 firefox
 firefox-ublock-origin
 gcolor2
@@ -35,7 +40,7 @@ hexchat
 htop
 inxi
 json-c
-kvantum-qt5
+kvantum
 libgpod
 libtool
 light
@@ -77,6 +82,7 @@ powertop
 pulseaudio-alsa
 pulseaudio-bluetooth
 #pygtk # needed for deluge
+# do not edit, this file is generated automatically.
 qt5-styleplugins
 qt5ct
 ranger
@@ -94,6 +100,7 @@ ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 ufw
 vertex-maia-themes
 vibrancy-icons-teal
@@ -118,3 +125,4 @@ xorg-xkill
 xorg-xprop
 xterm
 zswap-arm
+# do not edit, this file is generated automatically.

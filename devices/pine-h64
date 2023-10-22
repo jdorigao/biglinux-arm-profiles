@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Kernel and bootloader stuff
+# do not edit, this file is generated automatically.
 linux
 linux-headers
 uboot-pine-h64
@@ -8,11 +11,15 @@ plymouth
 plymouth-theme-manjaro
 
 # Video drivers
+# do not edit, this file is generated automatically.
 # xf86-video-fbdev
+# do not edit, this file is generated automatically.
 
 # Other device specific packages
+# do not edit, this file is generated automatically.
 crda
 rtl8723bt-firmware
 wpa_supplicant
 generic-post-install
 pinebook-post-install
+# do not edit, this file is generated automatically.

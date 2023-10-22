@@ -1,12 +1,16 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Appelgriebsch ##
+# do not edit, this file is generated automatically.
 
 # Sound, video and bluetooth
+# do not edit, this file is generated automatically.
 pavucontrol
 alsa-utils
 bluez
 bluez-utils
 wireplumber
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 grilo
@@ -16,9 +20,11 @@ gst-plugin-pipewire
 libva-v4l2-request
 
 # Display Manager
+# do not edit, this file is generated automatically.
 gdm
 
 # Network
+# do not edit, this file is generated automatically.
 avahi
 networkmanager
 networkmanager-openvpn
@@ -27,6 +33,7 @@ manjaro-hotfixes
 manjaro-settings-samba
 
 # Core GNOME
+# do not edit, this file is generated automatically.
 gnome-power-manager
 gnome-applets
 gnome-calculator
@@ -63,10 +70,11 @@ sushi
 totem
 
 # Themes
+# do not edit, this file is generated automatically.
 adw-gtk3
 qt5ct
 qt5-wayland
-kvantum-qt5
+kvantum
 kvantum-theme-matchama
 matcha-gtk-theme
 manjaro-arm-wallpapers
@@ -74,18 +82,22 @@ papirus-maia-icon-theme
 xcursor-breeze
 
 # Web Browser
+# do not edit, this file is generated automatically.
 epiphany
 
 # Email
+# do not edit, this file is generated automatically.
 geary
 
 # Package Manager
+# do not edit, this file is generated automatically.
 pamac-gtk
 pamac-gnome-integration
 polkit-gnome
 pamac-cli
 
 # Fonts
+# do not edit, this file is generated automatically.
 noto-fonts
 noto-fonts-emoji
 ttf-bitstream-vera
@@ -94,8 +106,10 @@ ttf-inconsolata
 ttf-font-awesome
 ttf-roboto
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 # some interesting CLI tools
+# do not edit, this file is generated automatically.
 bat
 box64
 cpu-temp-speed
@@ -120,6 +134,7 @@ yad
 yay
 
 # Applications
+# do not edit, this file is generated automatically.
 celluloid
 dconf-editor
 eog
@@ -137,6 +152,7 @@ seahorse
 simple-scan
 
 # File systems access
+# do not edit, this file is generated automatically.
 gvfs
 gvfs-gphoto2
 gvfs-mtp
@@ -149,20 +165,29 @@ ffmpeg
 usb_modeswitch
 
 # for qemu support
+# do not edit, this file is generated automatically.
 # phodav
+# do not edit, this file is generated automatically.
 # spice-vdagent
+# do not edit, this file is generated automatically.
 
 # Optional dependencies file-roller
+# do not edit, this file is generated automatically.
 p7zip  # 7Z and ARJ archive support
+# do not edit, this file is generated automatically.
 unrar  # RAR archive support
+# do not edit, this file is generated automatically.
 
 ## Xorg Input Drivers
+# do not edit, this file is generated automatically.
 xf86-input-elographics
 #xf86-input-evdev
+# do not edit, this file is generated automatically.
 xf86-input-libinput
 xf86-input-void
 
 ## Xorg Server and Graphics
+# do not edit, this file is generated automatically.
 xdg-user-dirs
 xorg-server
 xorg-server-xwayland
@@ -172,5 +197,7 @@ xorg-xinit
 xorg-xkill
 
 ## Desktop Utils
+# do not edit, this file is generated automatically.
 xdg-utils
-xdg-desktop-portal-gtk
+xdg-desktop-portal-gnome
+# do not edit, this file is generated automatically.

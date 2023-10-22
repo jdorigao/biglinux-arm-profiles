@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by NeoChapay ##
+# do not edit, this file is generated automatically.
 
 # Device specific packages
+# do not edit, this file is generated automatically.
 >pinephone nemo-device-pinephone
 >pinephonepro nemo-device-pinephone
 >pinetab nemo-device-pinetab
@@ -8,13 +11,8 @@
 
 bootsplash-theme-nemo
 
-# OpenGLES qt packages
-qt5-es2-base
-qt5-es2-declarative
-qt5-es2-multimedia
-qt5-es2-wayland
-
 # Multimedia packages
+# do not edit, this file is generated automatically.
 gst-libav
 gst-plugins-bad
 gst-plugins-base
@@ -22,6 +20,7 @@ gst-plugins-ugly
 ffmpeg-pp
 
 # Additional packages
+# do not edit, this file is generated automatically.
 accountsservice
 lightdm
 mce
@@ -32,6 +31,7 @@ ohm
 ohm-plugin-ruleengine
 
 # Main glacier packages
+# do not edit, this file is generated automatically.
 lipstick-glacier-home
 glacier-alarmclock
 glacier-alarm-listener
@@ -53,6 +53,7 @@ fingerterm
 qt5-quickcontrols-nemo-examples
 
 # Other
+# do not edit, this file is generated automatically.
 xdg-user-dirs
 mesa
 alsa-utils
@@ -66,3 +67,4 @@ nemo-theme-openmoko
 
 gst-plugins-good
 mc
+# do not edit, this file is generated automatically.

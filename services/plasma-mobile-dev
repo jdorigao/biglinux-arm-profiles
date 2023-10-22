@@ -1,3 +1,4 @@
+# do not edit, this file is generated automatically.
 sshd.service
 sddm.service
 NetworkManager.service
@@ -15,5 +16,8 @@ drkonqi-coredump-processor@.service
 >pinephone ModemManager.service
 >pinephone sshd.service
 #>pinephone ofono.service
+# do not edit, this file is generated automatically.
 #>pinephone ofonoctl.service
+# do not edit, this file is generated automatically.
 >pinephone pinephone-modem-scripts.pinephone-modem-setup.service
+# do not edit, this file is generated automatically.

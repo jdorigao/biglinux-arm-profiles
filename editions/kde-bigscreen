@@ -1,19 +1,24 @@
+# do not edit, this file is generated automatically.
 #Base PKG'S
+# do not edit, this file is generated automatically.
 sddm
 networkmanager
 
 # Sound, Video and Bluetooth
+# do not edit, this file is generated automatically.
 alsa-utils
 smplayer
 pulseaudio-alsa
 pulseaudio-bluetooth
 
 #Pico Pkgs
+# do not edit, this file is generated automatically.
 pico-wizard-git
 pico-wizard-bigscreen-scripts
 pico-wizard-bigscreen-configs
 
 #KDE PKG'S
+# do not edit, this file is generated automatically.
 kscreen
 kactivities
 kcmutils
@@ -46,6 +51,7 @@ pamac-tray-icon-plasma
 
 
 #Bigscreen PKG'S
+# do not edit, this file is generated automatically.
 plasma-bigscreen
 aura-browser
 plank-player
@@ -56,6 +62,7 @@ mycroft-skill-installer
 mycroft-gui
 
 #Other PKG'S
+# do not edit, this file is generated automatically.
 >rpi4 libcec-rpi
 python
 python-cec
@@ -66,3 +73,4 @@ dbus-python
 openresolv
 plasma-remotecontrollers
 >rpi4 raspberrypi-bigscreen-resolution-fix
+# do not edit, this file is generated automatically.

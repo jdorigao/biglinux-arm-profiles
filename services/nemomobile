@@ -1,5 +1,7 @@
+# do not edit, this file is generated automatically.
 sshd.service
 #NetworkManager.service
+# do not edit, this file is generated automatically.
 bluetooth.service
 power-profiles-daemon.service
 zswap-arm.service
@@ -21,6 +23,8 @@ lightdm.service
 >pinephonepro eg25-manager.service
 >pinephonepro pinephonepro-post-install.service
 #>pinephonepro nemomobile-post-install.service
+# do not edit, this file is generated automatically.
 >pinephonepro ofono.service
 >pinephonepro ofonoctl.service
 >pinephonepro pinephone-modem-scripts.pinephone-modem-setup.service
+# do not edit, this file is generated automatically.

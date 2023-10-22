@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Darksky ##
+# do not edit, this file is generated automatically.
 
 # Sound, video and bluetooth
+# do not edit, this file is generated automatically.
 pavucontrol
 pulseaudio-alsa
 alsa-utils
@@ -18,11 +21,13 @@ libva-v4l2-request
 manjaro-hotfixes
 
 # Display Manager
+# do not edit, this file is generated automatically.
 lightdm
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 
 # Mate packages
+# do not edit, this file is generated automatically.
 networkmanager
 network-manager-applet
 dhclient
@@ -47,6 +52,7 @@ mate-power-manager
 mate-screensaver
 engrampa
 audacious
+audacious-plugins
 pluma
 xpdf
 viewnior
@@ -55,29 +61,37 @@ ffmpeg
 usb_modeswitch
 
 # Themes
+# do not edit, this file is generated automatically.
 papirus-maia-icon-theme
 qt5ct
-kvantum-qt5 
+kvantum 
 kvantum-theme-matchama
 matcha-gtk-theme
 manjaro-arm-wallpapers
 
 # Browser
+# do not edit, this file is generated automatically.
 firefox
 firefox-ublock-origin
 
 # Office suite
+# do not edit, this file is generated automatically.
 #libreoffice-fresh
+# do not edit, this file is generated automatically.
 
 # Package Manager
+# do not edit, this file is generated automatically.
 pamac-gtk
 
 # Fonts
+# do not edit, this file is generated automatically.
 ttf-bitstream-vera
 noto-fonts
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 # Other packages
+# do not edit, this file is generated automatically.
 manjaro-settings-manager
 wget
 power-profiles-daemon
@@ -86,6 +100,7 @@ cpu-temp-speed
 htop
 
 # File systems access
+# do not edit, this file is generated automatically.
 manjaro-settings-samba
 gvfs
 gvfs-gphoto2
@@ -95,7 +110,9 @@ gvfs-smb
 ifuse
 mtpfs
 # matray # disabled due to shutdown issue
+# do not edit, this file is generated automatically.
 mesa-utils
 xorg-xdpyinfo
 xorg-server
 xorg-xinit
+# do not edit, this file is generated automatically.

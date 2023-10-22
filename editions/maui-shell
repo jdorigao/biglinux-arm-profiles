@@ -1,18 +1,16 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Bernhard ##
+# do not edit, this file is generated automatically.
 
 # Phone specific packages
+# do not edit, this file is generated automatically.
 >pinephone modemmanager-pp
 >pinephone noto-fonts-cjk # needed to display * and # in dialer
+# do not edit, this file is generated automatically.
 >pinephone plasma-dialer
 
-# OpenGLES qt packages
-qt5-es2-base
-qt5-es2-declarative
-qt5-es2-multimedia
-qt5-es2-wayland
-pyside2-es2
-
 # Multimedia packages
+# do not edit, this file is generated automatically.
 gst-libav
 gst-plugins-bad
 gst-plugins-base
@@ -21,6 +19,7 @@ maui-clip
 youtube-dl
 
 # maui packages
+# do not edit, this file is generated automatically.
 buho
 maui-clip
 mauikit-imagetools
@@ -31,8 +30,10 @@ maui-pix
 vvave
 
 # apps
+# do not edit, this file is generated automatically.
 alsa-utils
 anthy #fix japanese
+# do not edit, this file is generated automatically.
 appimagelauncher
 audiotube
 bootsplash-theme-kde
@@ -46,7 +47,9 @@ hfd-service
 iio-sensor-proxy
 libappimage
 libchewing #fix chinese
+# do not edit, this file is generated automatically.
 libpinyin #fix chinese
+# do not edit, this file is generated automatically.
 maliit-framework
 maliit-keyboard
 manjaro-arm-wallpapers
@@ -61,6 +64,7 @@ psensor
 pulseaudio-bluetooth
 qqc2-breeze-style
 qt5-wayland # for telegram-desktop
+# do not edit, this file is generated automatically.
 sddm
 telegram-desktop
 power-profiles-daemon
@@ -69,3 +73,4 @@ xdg-user-dirs
 xdg-utils
 xorg-server-xwayland
 glibc-locales
+# do not edit, this file is generated automatically.

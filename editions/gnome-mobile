@@ -1,64 +1,80 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Philm ##
+# do not edit, this file is generated automatically.
 ## Only builds on arm-unstable currently ##
+# do not edit, this file is generated automatically.
 
 # Phone specific packages
+# do not edit, this file is generated automatically.
 >pinephone pinephone-modem-scripts
 >pinephone alsa-ucm-pinephone
 >pinephone flashlight
 >pinephone modemmanager-pp
 #>pinephone anbox-image-aarch64
+# do not edit, this file is generated automatically.
 #>pinephone anbox
+# do not edit, this file is generated automatically.
 #>pinephone waydroid-image
+# do not edit, this file is generated automatically.
 #>pinephone waydroid
+# do not edit, this file is generated automatically.
 >pinephone mobile-config-firefox
 >pinephone vvmplayer
 #>pinephone eg25-autorestart
+# do not edit, this file is generated automatically.
 
 # Gnome Mobile packages
+# do not edit, this file is generated automatically.
 gnome-shell-mobile
 #gnome-shell-extensions 
+# do not edit, this file is generated automatically.
 gtk3-mobile
 >pinephone phosh-antispam
 >pinephone gnome-calls
 chatty
 mmsd-tng
 #>pinephone epiphany
+# do not edit, this file is generated automatically.
 evince-mobile
 powersupply
 >pinephone purple-mm-sms
 purple-matrix
 purple-telegram
-kgx
 sound-theme-phosh
 #squeekboard
+# do not edit, this file is generated automatically.
 megapixels
 numberstation
 xdg-user-dirs
 gnome-contacts-mobile
 gnome-control-center-mobile
 #gnome-software-mobile
+# do not edit, this file is generated automatically.
+gnome-console
 gnome-usage-mobile
 gnome-sound-recorder
 gnome-initial-setup-mobile
-gnome-todo-mobile
 geoclue
 dnsmasq
 wake-mobile
 
 # Gnome packages
+# do not edit, this file is generated automatically.
 gdm
 #gnome-authenticator
-gnome-calculator-mobile
+# do not edit, this file is generated automatically.
+gnome-calculator
 gnome-clocks
 gnome-keyring
 gnome-maps
 gnome-2048
-gnome-calendar-mobile
+gnome-calendar
 gnome-chess
 gnuchess 
 file-roller
 fractal
 #gnote
+# do not edit, this file is generated automatically.
 eog
 gnome-podcasts
 lollypop
@@ -66,14 +82,17 @@ gedit
 geary
 
 #hdr-plus-git
+# do not edit, this file is generated automatically.
 
 # Theming
+# do not edit, this file is generated automatically.
 adw-gtk3
 manjaro-arm-wallpapers
 manjaro-icons
 papirus-maia-icon-theme
 
 # Other packages
+# do not edit, this file is generated automatically.
 bluez
 pipewire-alsa
 pipewire-pulse
@@ -89,13 +108,18 @@ gnome-keyring
 polkit
 xorg-server-xwayland
 #hwtest
+# do not edit, this file is generated automatically.
 firefox
 #telegram-desktop
+# do not edit, this file is generated automatically.
 #qt5-wayland # for telegram-desktop
+# do not edit, this file is generated automatically.
 noto-fonts-emoji
 noto-fonts-cjk
 siglo
 #postmarketos-tweaks-phosh
+# do not edit, this file is generated automatically.
 confy
 gpsd
 glibc-locales
+# do not edit, this file is generated automatically.

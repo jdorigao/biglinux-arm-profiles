@@ -1,18 +1,25 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Spikerguy ##
+# do not edit, this file is generated automatically.
 #Ugoos AM6 Plus
+# do not edit, this file is generated automatically.
 
 # Kernel and bootloader stuff
+# do not edit, this file is generated automatically.
 linux-odroid
 boot-am6-plus
 plymouth
 plymouth-theme-manjaro
 
 # Video driver
+# do not edit, this file is generated automatically.
 
 # Other device specific packages
+# do not edit, this file is generated automatically.
 crda
 ap6398s-firmware
 bluetooth-vim3
 fbset
 generic-post-install
 am6-plus-post-install
+# do not edit, this file is generated automatically.

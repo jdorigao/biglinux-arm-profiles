@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Darksky ##
+# do not edit, this file is generated automatically.
 
 # Kernel and Bootloader stuff
+# do not edit, this file is generated automatically.
 linux-rpi4
 linux-rpi4-headers
 raspberrypi-bootloader
@@ -11,8 +14,10 @@ plymouth
 plymouth-theme-manjaro
 
 # Video driver
+# do not edit, this file is generated automatically.
 
 # Other device specific packages
+# do not edit, this file is generated automatically.
 crda
 firmware-raspberrypi
 brcm-patchram-plus
@@ -21,3 +26,4 @@ generic-post-install
 rpi4-post-install
 cutiepi-cutoff
 cutiepi-kernel-config
+# do not edit, this file is generated automatically.

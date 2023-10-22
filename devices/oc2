@@ -1,17 +1,24 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Kernel and bootloader stuff
+# do not edit, this file is generated automatically.
 linux-api-headers #needed for GUI for some reason
+# do not edit, this file is generated automatically.
 linux-odroid
 uboot-odroid-c2-mainline
 plymouth
 plymouth-theme-manjaro
 
 # Video driver
+# do not edit, this file is generated automatically.
 xf86-video-fbdev
 
 # Other device specific packages
+# do not edit, this file is generated automatically.
 fbset
 amlogic
 generic-post-install
 oc2-post-install
+# do not edit, this file is generated automatically.

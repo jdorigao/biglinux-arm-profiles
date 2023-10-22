@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Appelgriebsch ##
+# do not edit, this file is generated automatically.
 
 # Sound, video and bluetooth
+# do not edit, this file is generated automatically.
 pavucontrol
 alsa-utils
 bluez
@@ -8,6 +11,7 @@ bluez-utils
 blueman
 wireplumber
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 pulsemixer
@@ -16,11 +20,13 @@ gst-plugin-pipewire
 libva-v4l2-request
 
 # Display Manager
+# do not edit, this file is generated automatically.
 greetd
 greetd-gtkgreet
 wlogout
 
 # Network
+# do not edit, this file is generated automatically.
 avahi
 networkmanager
 networkmanager-openvpn
@@ -30,6 +36,7 @@ manjaro-hotfixes
 manjaro-settings-samba
 
 # Core Sway
+# do not edit, this file is generated automatically.
 sway
 swaybg
 swayidle
@@ -41,6 +48,7 @@ waybar
 wl-clipboard
 
 # Sway Extras
+# do not edit, this file is generated automatically.
 dex
 grim
 grimshot
@@ -49,10 +57,11 @@ wdisplays
 wf-recorder
 
 # Themes
+# do not edit, this file is generated automatically.
 adw-gtk3
 qt5ct
 qt5-wayland
-kvantum-qt5
+kvantum
 kvantum-theme-matchama
 matcha-gtk-theme
 manjaro-arm-wallpapers
@@ -60,16 +69,21 @@ papirus-maia-icon-theme
 xcursor-breeze
 
 # Web Browser
+# do not edit, this file is generated automatically.
 firefox
 firefox-ublock-origin
 
 # Package Manager
+# do not edit, this file is generated automatically.
 pamac-gtk
 polkit-gnome
 pamac-cli
 
 # Fonts
-nerd-fonts-terminus
+# do not edit, this file is generated automatically.
+# nerd-fonts-terminus # Replaced with ttf-terminus-nerd
+# do not edit, this file is generated automatically.
+ttf-terminus-nerd
 noto-fonts
 noto-fonts-emoji
 ttf-bitstream-vera
@@ -78,8 +92,10 @@ ttf-inconsolata
 ttf-font-awesome
 ttf-roboto
 wqy-microhei #chinese
+# do not edit, this file is generated automatically.
 
 # some interesting CLI tools
+# do not edit, this file is generated automatically.
 bash-completion
 bat
 btop
@@ -94,7 +110,8 @@ fd
 firewalld
 ffmpegthumbnailer
 fzf
-gitui
+#gitui
+# do not edit, this file is generated automatically.
 gpg-tui
 helix
 hey
@@ -126,6 +143,7 @@ yad
 yay
 
 # Applications
+# do not edit, this file is generated automatically.
 celluloid
 eog
 evince
@@ -148,6 +166,7 @@ sushi
 system-config-printer
 
 # File systems access
+# do not edit, this file is generated automatically.
 gvfs
 gvfs-gphoto2
 gvfs-mtp
@@ -161,17 +180,26 @@ sshfs
 usb_modeswitch
 
 # for qemu support
+# do not edit, this file is generated automatically.
 # phodav
+# do not edit, this file is generated automatically.
 # spice-vdagent
+# do not edit, this file is generated automatically.
 
 # Optional dependencies file-roller
+# do not edit, this file is generated automatically.
 p7zip  # 7Z and ARJ archive support
+# do not edit, this file is generated automatically.
 unrar  # RAR archive support
+# do not edit, this file is generated automatically.
 
 ## Xorg Server and Graphics
+# do not edit, this file is generated automatically.
 xdg-user-dirs
 xorg-xwayland
 
 ## Desktop Utils
+# do not edit, this file is generated automatically.
 xdg-utils
 xdg-desktop-portal-wlr
+# do not edit, this file is generated automatically.

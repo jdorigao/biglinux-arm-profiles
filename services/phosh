@@ -1,3 +1,4 @@
+# do not edit, this file is generated automatically.
 sshd.service
 NetworkManager.service
 >pinephone ModemManager.service
@@ -10,8 +11,13 @@ systemd-oomd.service
 >pinephone eg25-manager.service
 >pinephone pinephone-post-install.service
 >pinephone pinephonepro-post-install.service
+>pinetab2 pinetab2-post-install.service
 >pinephone pinephone-modem-scripts.pinephone-modem-setup.service
 #>pinephone anbox-container-manager.service
+# do not edit, this file is generated automatically.
 #>pinephone waydroid-container.service
+# do not edit, this file is generated automatically.
 >pinephone siglo.service
 #>pinephone eg25-autorestart.service
+# do not edit, this file is generated automatically.
+# do not edit, this file is generated automatically.

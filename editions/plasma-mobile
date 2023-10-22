@@ -1,34 +1,40 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Bernhard ##
+# do not edit, this file is generated automatically.
 
 # Phone specific packages
+# do not edit, this file is generated automatically.
 >pinephone modemmanager-pp
 >pinephone plasma-dialer
 >pinephone noto-fonts-cjk # needed to display * and # in dialer
-
-# OpenGLES qt packages
-qt5-es2-base
-qt5-es2-declarative
-qt5-es2-multimedia
-pyside2-es2
+# do not edit, this file is generated automatically.
 
 # Multimedia packages
+# do not edit, this file is generated automatically.
 gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-ugly
+wireplumber
+gst-plugin-pipewire
 #ffmpeg-pp
+# do not edit, this file is generated automatically.
 maui-clip
 
 # Image packages
+# do not edit, this file is generated automatically.
 kio-extras
 kdegraphics-thumbnailers
 libappimage
 ffmpegthumbs
 
 # Personal assistance
+# do not edit, this file is generated automatically.
 #mycroft-gui-git
+# do not edit, this file is generated automatically.
 
 # PM Packages
+# do not edit, this file is generated automatically.
 angelfish
 calindori
 desktop-file-utils
@@ -37,7 +43,8 @@ kaccounts-providers
 kalk
 kclock
 kio-extras
-kpeoplesink
+#kpeoplesink
+# do not edit, this file is generated automatically.
 krecorder
 kweather
 kwin
@@ -46,8 +53,11 @@ maliit-keyboard
 mauikit
 noto-fonts-emoji
 anthy #fix japanese
+# do not edit, this file is generated automatically.
 libpinyin #fix chinese
+# do not edit, this file is generated automatically.
 libchewing #fix chinese
+# do not edit, this file is generated automatically.
 maui-nota
 okular
 oxygen-sounds
@@ -57,6 +67,7 @@ plasma-nano
 plasma-phone-components
 plasma-phonebook
 #plasma-pix
+# do not edit, this file is generated automatically.
 plasma-settings
 plymouth-shim
 qmlkonsole
@@ -65,14 +76,21 @@ telepathy-mission-control
 xdg-utils
 
 # First run wizard
-pico-wizard-plamo-scripts
-pico-wizard-git
+# do not edit, this file is generated automatically.
+#pico-wizard-plamo-scripts
+# do not edit, this file is generated automatically.
+#pico-wizard-git
+# do not edit, this file is generated automatically.
 
 # Packages to be built
+# do not edit, this file is generated automatically.
 #qrca #no tagged release
+# do not edit, this file is generated automatically.
 #plasmatube #no tagged release
+# do not edit, this file is generated automatically.
 
 # Regular Plasma packages
+# do not edit, this file is generated automatically.
 bluez
 bluedevil
 breeze
@@ -92,18 +110,21 @@ packagekit-qt5
 koko
 qqc2-breeze-style
 # peruse
+# do not edit, this file is generated automatically.
 
 # Theming
+# do not edit, this file is generated automatically.
 manjaro-arm-wallpapers
 manjaro-icons
 
 # Wayland stuff
+# do not edit, this file is generated automatically.
 kwayland
 kwayland-integration
 xorg-server-xwayland
-pipewire-media-session
 
 # Other
+# do not edit, this file is generated automatically.
 mesa
 alsa-utils
 pulseaudio-bluetooth
@@ -116,7 +137,9 @@ megapixels
 bootsplash-theme-kde
 breeze-gtk
 lcms2 # needed for kwin nightmode
+# do not edit, this file is generated automatically.
 hfd-service
 dnsmasq
 appimagelauncher
 glibc-locales
+# do not edit, this file is generated automatically.

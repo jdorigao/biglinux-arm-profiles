@@ -1,19 +1,37 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Spikerguy and Philm ##
+# do not edit, this file is generated automatically.
 
 # Kernel and bootloader stuff
+# do not edit, this file is generated automatically.
 linux-pinephone
 #linux-pinephone-headers
+# do not edit, this file is generated automatically.
 uboot-pinephone
 bootsplash-theme-manjaro
 bootsplash-systemd
 
 # Video drivers
+# do not edit, this file is generated automatically.
 
 # Audio configs
-pinephone-modem-scripts
+# do not edit, this file is generated automatically.
 alsa-ucm-pinephone
+pinephone-modem-scripts
+pulseaudio-bluetooth
+#gst-plugin-pipewire
+# do not edit, this file is generated automatically.
+#pipewire-media-session
+# do not edit, this file is generated automatically.
+#pipewire-alsa
+# do not edit, this file is generated automatically.
+#pipewire-pulse
+# do not edit, this file is generated automatically.
+#pipewire-jack
+# do not edit, this file is generated automatically.
 
 # Other device specific packages
+# do not edit, this file is generated automatically.
 rtl8723bt-firmware-megi
 anx7688-firmware
 ov5640-firmware
@@ -23,4 +41,6 @@ pinephone-post-install
 pinephone-manjaro-tweaks
 
 # Camera
+# do not edit, this file is generated automatically.
 megapixels
+# do not edit, this file is generated automatically.

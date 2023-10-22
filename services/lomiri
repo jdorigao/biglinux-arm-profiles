@@ -1,4 +1,6 @@
+# do not edit, this file is generated automatically.
 #sshd.service 
+# do not edit, this file is generated automatically.
 lightdm.service
 NetworkManager.service
 bluetooth.service
@@ -14,3 +16,4 @@ bootsplash-show-on-shutdown.service
 repowerd.service
 hfd-service.service
 sensorfwd.service
+# do not edit, this file is generated automatically.

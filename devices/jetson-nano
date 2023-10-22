@@ -1,6 +1,9 @@
+# do not edit, this file is generated automatically.
 ## Maintained by Strit ##
+# do not edit, this file is generated automatically.
 
 # Kernel and bootloader stuff
+# do not edit, this file is generated automatically.
 linux
 boot-jetson-nano
 
@@ -8,6 +11,9 @@ plymouth
 plymouth-theme-manjaro
 
 # Video drivers
+# do not edit, this file is generated automatically.
 
 # Other device specific packages
+# do not edit, this file is generated automatically.
 generic-post-install
+# do not edit, this file is generated automatically.
