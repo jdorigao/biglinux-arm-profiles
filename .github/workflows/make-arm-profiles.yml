@@ -21,7 +21,7 @@ jobs:
           if [ -e "manjaro-arm-profiles" ];then
             sudo rm -r manjaro-arm-profiles
           fi
-          git clone https://gitlab.manjaro.org/manjaro-arm/applications/arm-profiles manjaro-arm-profiles
+          git clone https://gitlab.manjaro.org/manjaro-arm/applications/arm-profiles.git manjaro-arm-profiles
       
       - name: Add and Remove in files
         shell: bash
@@ -42,11 +42,11 @@ jobs:
             done
           done
           
-      # - name: 
-      #   shell: bash
-      #   run: |
-          
-          
+      - name: Overlays
+        shell: bash
+        run: |
+          cp -a manjaro-arm-profiles/overlays overlays
+          cp -a biglinux-make-arm-profiles/overlays overlays
           
       - name: Clean
         shell: bash
