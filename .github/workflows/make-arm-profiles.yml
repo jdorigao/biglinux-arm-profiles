@@ -45,8 +45,8 @@ jobs:
       - name: Overlays
         shell: bash
         run: |
-          cp -a manjaro-arm-profiles/overlays overlays
-          # cp -a biglinux-make-arm-profiles/overlays overlays
+          cp -a manjaro-arm-profiles/overlays/* overlays/
+          cp -a biglinux-make-arm-profiles/overlays/* overlays/
           
       - name: Clean
         shell: bash
