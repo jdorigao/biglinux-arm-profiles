@@ -2,6 +2,19 @@
 ## Maintained by Darksky ##
 # do not edit, this file is generated automatically.
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+sudo
+parted
+openssh
+inxi
+ncdu
+nano
+dhcpcd
+man-pages
+man-db
+zswap-arm
+
 # Sound, video and bluetooth
 # do not edit, this file is generated automatically.
 pavucontrol
@@ -13,7 +26,6 @@ bluez-utils
 blueman
 wireplumber
 pipewire-alsa
-pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 gst-plugin-pipewire
@@ -94,7 +106,7 @@ xfce4-pulseaudio-plugin
 ## Themes
 # do not edit, this file is generated automatically.
 qt5ct
-kvantum
+kvantum-qt5
 kvantum-theme-matchama
 matcha-gtk-theme
 manjaro-arm-wallpapers
@@ -113,7 +125,7 @@ firefox-ublock-origin
 
 # Package Manager
 # do not edit, this file is generated automatically.
-pamac-gtk3
+pamac-gtk
 
 # Fonts
 # do not edit, this file is generated automatically.
@@ -127,7 +139,6 @@ wqy-microhei #chinese
 engrampa
 galculator
 audacious
-audacious-plugins
 htop
 qpdf
 manjaro-settings-manager
@@ -150,6 +161,7 @@ gvfs-nfs
 gvfs-smb
 ifuse
 mtpfs
+ntfs-3g
 mpv
 ffmpeg
 usb_modeswitch

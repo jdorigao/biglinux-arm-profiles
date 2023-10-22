@@ -2,6 +2,20 @@
 ## Maintained by Strit ##
 # do not edit, this file is generated automatically.
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+sudo
+parted
+openssh
+inxi
+ncdu
+nano
+man-pages
+man-db
+ntfs-3g
+zswap-arm
+irqbalance
+
 # Sound, Video and bluetooth
 # do not edit, this file is generated automatically.
 alsa-utils
@@ -57,7 +71,7 @@ wqy-microhei #chinese
 # Themes
 # do not edit, this file is generated automatically.
 qt5ct
-kvantum
+kvantum-qt5
 breath2-icon-themes
 matcha-gtk-theme
 kvantum-theme-matchama

@@ -24,6 +24,22 @@
 #>pinephone eg25-autorestart
 # do not edit, this file is generated automatically.
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+glibc-locales
+sudo
+parted
+openssh
+inxi
+ncdu
+nano
+dhcpcd
+man-pages
+man-db
+ntfs-3g
+zswap-arm
+bash-completion
+
 # Phosh packages
 # do not edit, this file is generated automatically.
 gtk3-mobile
@@ -56,6 +72,7 @@ gnome-control-center-mobile
 gnome-usage-mobile
 gnome-sound-recorder
 gnome-initial-setup-mobile
+gnome-todo-mobile
 geoclue
 dnsmasq
 wake-mobile
@@ -64,7 +81,7 @@ wake-mobile
 # do not edit, this file is generated automatically.
 #gnome-authenticator
 # do not edit, this file is generated automatically.
-gnome-calculator
+gnome-calculator-mobile
 gnome-clocks
 gnome-keyring
 gnome-maps
@@ -95,6 +112,7 @@ papirus-maia-icon-theme
 # Other packages
 # do not edit, this file is generated automatically.
 bluez
+pulseaudio-bluetooth
 pamac-gtk
 >pinephone pamac-mobile-integration
 pamac-gnome-integration
@@ -119,9 +137,4 @@ siglo
 postmarketos-tweaks-phosh
 confy
 gpsd
-glibc-locales
-wireplumber
-gst-plugin-pipewire
-xdg-desktop-portal-gtk # to fix slow program startup
-# do not edit, this file is generated automatically.
 # do not edit, this file is generated automatically.

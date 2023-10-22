@@ -9,6 +9,33 @@
 # do not edit, this file is generated automatically.
 >pinephone plasma-dialer
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+glibc-locales
+sudo
+parted
+openssh
+inxi
+ncdu
+nano
+dhcpcd
+#man-pages
+# do not edit, this file is generated automatically.
+#man-db
+# do not edit, this file is generated automatically.
+ntfs-3g
+zswap-arm
+bash-completion
+irqbalance
+
+# OpenGLES qt packages
+# do not edit, this file is generated automatically.
+qt5-es2-base
+qt5-es2-declarative
+qt5-es2-multimedia
+qt5-es2-wayland
+pyside2-es2
+
 # Multimedia packages
 # do not edit, this file is generated automatically.
 gst-libav
@@ -72,5 +99,4 @@ wget
 xdg-user-dirs
 xdg-utils
 xorg-server-xwayland
-glibc-locales
 # do not edit, this file is generated automatically.

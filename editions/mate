@@ -2,6 +2,23 @@
 ## Maintained by Darksky ##
 # do not edit, this file is generated automatically.
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+sudo
+parted
+openssh
+xorg-server
+xorg-xinit
+inxi
+mesa-utils
+xorg-xdpyinfo
+ncdu
+nano
+dhcpcd
+man-pages
+man-db
+zswap-arm
+
 # Sound, video and bluetooth
 # do not edit, this file is generated automatically.
 pavucontrol
@@ -52,7 +69,6 @@ mate-power-manager
 mate-screensaver
 engrampa
 audacious
-audacious-plugins
 pluma
 xpdf
 viewnior
@@ -64,7 +80,7 @@ usb_modeswitch
 # do not edit, this file is generated automatically.
 papirus-maia-icon-theme
 qt5ct
-kvantum 
+kvantum-qt5 
 kvantum-theme-matchama
 matcha-gtk-theme
 manjaro-arm-wallpapers
@@ -109,10 +125,7 @@ gvfs-nfs
 gvfs-smb
 ifuse
 mtpfs
+ntfs-3g
 # matray # disabled due to shutdown issue
 # do not edit, this file is generated automatically.
-mesa-utils
-xorg-xdpyinfo
-xorg-server
-xorg-xinit
 # do not edit, this file is generated automatically.

@@ -2,6 +2,20 @@
 ## Maintained by ?? ##
 # do not edit, this file is generated automatically.
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+sudo
+parted
+openssh
+inxi
+ncdu
+nano
+man-pages
+man-db
+ntfs-3g
+zswap-arm
+irqbalance
+
 # Sound and Video utilities
 # do not edit, this file is generated automatically.
 alsa-utils
@@ -19,7 +33,7 @@ wqy-microhei #chinese
 
 # Themes
 # do not edit, this file is generated automatically.
-kvantum
+kvantum-qt5
 breeze-icons
 
 # Wayfire packages

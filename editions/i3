@@ -18,7 +18,7 @@ cantarell-fonts
 dfc
 dhcpcd
 dmidecode
-mupdf
+epdfview
 firefox
 firefox-ublock-origin
 gcolor2
@@ -40,7 +40,7 @@ hexchat
 htop
 inxi
 json-c
-kvantum
+kvantum-qt5
 libgpod
 libtool
 light

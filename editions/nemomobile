@@ -11,6 +11,20 @@
 
 bootsplash-theme-nemo
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+sudo
+#parted
+# do not edit, this file is generated automatically.
+openssh
+
+# OpenGLES qt packages
+# do not edit, this file is generated automatically.
+qt5-es2-base
+qt5-es2-declarative
+qt5-es2-multimedia
+qt5-es2-wayland
+
 # Multimedia packages
 # do not edit, this file is generated automatically.
 gst-libav
@@ -60,6 +74,7 @@ alsa-utils
 pulseaudio-bluetooth
 wget
 vim
+nano
 maliit-nemo-keyboard
 
 nemo-theme-glacier

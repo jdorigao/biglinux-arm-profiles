@@ -9,6 +9,31 @@
 # do not edit, this file is generated automatically.
 >pinephone plasma-dialer
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+glibc-locales
+sudo
+parted
+openssh
+inxi
+ncdu
+nano
+dhcpcd
+#man-pages
+# do not edit, this file is generated automatically.
+#man-db
+# do not edit, this file is generated automatically.
+ntfs-3g
+zswap-arm
+bash-completion
+irqbalance
+
+# OpenGLES qt packages
+# do not edit, this file is generated automatically.
+qt5-es2-base
+qt5-es2-declarative
+qt5-es2-multimedia
+pyside2-es2
 openssl-1.1
 
 # Multimedia packages
@@ -49,8 +74,7 @@ kclock
 keysmith
 kio-extras
 kongress
-#kpeoplesink
-# do not edit, this file is generated automatically.
+kpeoplesink
 krecorder
 ktrip
 kweather
@@ -67,8 +91,7 @@ libpinyin #fix chinese
 libchewing #fix chinese
 # do not edit, this file is generated automatically.
 maui-nota
-#okular
-# do not edit, this file is generated automatically.
+okular
 plasma-mobile
 plasma-mobile-nm
 plasma-mobile-settings
@@ -92,10 +115,8 @@ plasma-mobile-sounds
 
 # First run wizard
 # do not edit, this file is generated automatically.
-#pico-wizard-plamo-scripts
-# do not edit, this file is generated automatically.
-#pico-wizard-git
-# do not edit, this file is generated automatically.
+pico-wizard-plamo-scripts
+pico-wizard-git
 
 # Packages to be built
 # do not edit, this file is generated automatically.
@@ -170,5 +191,4 @@ dnsmasq
 appimagelauncher
 qt5-tools # needed for plasma-workspace to start
 # do not edit, this file is generated automatically.
-glibc-locales
 # do not edit, this file is generated automatically.

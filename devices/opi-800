@@ -16,6 +16,8 @@ plymouth-theme-manjaro
 # Other device specific packages
 # do not edit, this file is generated automatically.
 crda
+btrfs-progs
+f2fs-tools
 wpa_supplicant
 generic-post-install
 orangepi800-post-install

@@ -23,6 +23,22 @@
 #>pinephone eg25-autorestart
 # do not edit, this file is generated automatically.
 
+# Minimal packages
+# do not edit, this file is generated automatically.
+glibc-locales
+sudo
+parted
+openssh
+inxi
+ncdu
+nano
+dhcpcd
+man-pages
+man-db
+ntfs-3g
+zswap-arm
+bash-completion
+
 # Gnome Mobile packages
 # do not edit, this file is generated automatically.
 gnome-shell-mobile-devel
@@ -54,6 +70,7 @@ gnome-control-center-mobile
 gnome-usage-mobile
 gnome-sound-recorder
 gnome-initial-setup-mobile
+gnome-todo-mobile
 geoclue
 dnsmasq
 wake-mobile
@@ -63,12 +80,12 @@ wake-mobile
 gdm
 #gnome-authenticator
 # do not edit, this file is generated automatically.
-gnome-calculator
+gnome-calculator-mobile
 gnome-clocks
 gnome-keyring
 gnome-maps
 gnome-2048
-gnome-calendar
+gnome-calendar-mobile
 gnome-chess
 gnuchess 
 file-roller
@@ -121,5 +138,4 @@ siglo
 # do not edit, this file is generated automatically.
 confy
 gpsd
-glibc-locales
 # do not edit, this file is generated automatically.
