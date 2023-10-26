@@ -119,6 +119,7 @@ firewalld
 # BigLinux
 # do not edit, this file is generated automatically.
 onboard
-sddm-theme-biglinux
+# sddm-theme-biglinux
+# do not edit, this file is generated automatically.
 qt5-virtualkeyboard
 # do not edit, this file is generated automatically.
