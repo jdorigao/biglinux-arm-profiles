@@ -34,7 +34,8 @@ jobs:
               cat manjaro-arm-profiles/$folder/$file biglinux-make-arm-profiles/$folder/$file-add > $folder/$file
               #remove
               # grep -v -f biglinux-make-arm-profiles/$folder/$file-remove $folder/$file > $folder/$file-tmp
-              # mv $folder/$file-tmp $folder/$file
+              grep -Fxv -f biglinux-make-arm-profiles/$folder/$file-remove $folder/$file > $folder/$file-tmp
+              mv $folder/$file-tmp $folder/$file
               # add text do not edit.
               sed -i '/#/{p;s/.*/# do not edit, this file is generated automatically./;}' $folder/$file
               if [ -z "$(grep "#do not edit, this file is generated automatically." $folder/$file)" ];then
@@ -44,13 +45,10 @@ jobs:
             done
           done
           
-      - name: Setup TMATE Session
-        uses: mxschmitt/action-tmate@v3
-
-          # #make install packages for rootfs
-          # cp "biglinux-make-arm-profiles/rootfs/rootfs-add" "rootfs"
-          # sed -i '/#/{p;s/.*/# do not edit, this file is generated automatically./;}' rootfs
-          # echo "# do not edit, this file is generated automatically." >> rootfs
+          #make install packages for rootfs
+          cp "biglinux-make-arm-profiles/rootfs/rootfs-add" "rootfs"
+          sed -i '/#/{p;s/.*/# do not edit, this file is generated automatically./;}' rootfs
+          echo "# do not edit, this file is generated automatically." >> rootfs
           
       - name: Overlays
         shell: bash
