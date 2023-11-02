@@ -393,7 +393,8 @@ ttf-ubuntu-font-family
 # BigLinux
 # do not edit, this file is generated automatically.
   big-store
-  biglinux-keyring
+# #   biglinux-keyring  # Já está instalado no rootFS
+# do not edit, this file is generated automatically.
   biglinux-updates-tweaks
   pamac-updates-menu
 # #   pacman-cleancache
