@@ -66,7 +66,7 @@ irqbalance
     faster-mkinitcpio
 # #     biglinux-improve-compatibility
     big-mount-git
-    biglinux-systemd-swap
+# #     biglinux-systemd-swap  #conflita com zswap-arm
 # #     disable-fsync  # REMOVER?
 # #     dbus-broker-enable
     biglinux-neofetch
