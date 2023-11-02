@@ -198,7 +198,8 @@ irqbalance
 # #     biglinux-improve-compatibility
 # do not edit, this file is generated automatically.
     big-mount-git
-    biglinux-systemd-swap
+# #     biglinux-systemd-swap  #conflita com zswap-arm
+# do not edit, this file is generated automatically.
 # #     disable-fsync  # REMOVER?
 # do not edit, this file is generated automatically.
 # #     dbus-broker-enable
