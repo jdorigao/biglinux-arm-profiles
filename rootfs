@@ -1,0 +1,502 @@
+# do not edit, this file is generated automatically.
+# do not edit, this file is generated automatically.
+## ROOT-ADD ##
+# do not edit, this file is generated automatically.
+# Base
+# do not edit, this file is generated automatically.
+# # >i686 archlinux32-keyring
+# do not edit, this file is generated automatically.
+# # >multilib gcc-libs-multilib
+# do not edit, this file is generated automatically.
+# # KERNEL-headers
+# do not edit, this file is generated automatically.
+bash
+file
+filesystem
+findutils
+gawk
+gcc-libs
+gcc
+gettext
+glibc
+grep
+gzip
+iproute2
+iputils
+pacman
+pciutils
+procps-ng
+psmisc
+sed
+shadow
+tar
+util-linux
+xz
+make
+pacutils
+aspell-pt
+# # pulseaudio-alsa já tem pipewire
+# do not edit, this file is generated automatically.
+python-cssselect
+python-qtpy
+xapian-core
+bash-completion
+manjaro-tools-base
+hunspell-en_us
+qt5-translations
+vkd3d
+# # lib32-vkd3d
+# do not edit, this file is generated automatically.
+vulkan-swrast
+ocl-icd
+# # lib32-ocl-icd
+# do not edit, this file is generated automatically.
+irqbalance
+# # x86_energy_perf_policy
+# do not edit, this file is generated automatically.
+
+## BigLinux Packages
+# do not edit, this file is generated automatically.
+  # visual
+# do not edit, this file is generated automatically.
+    extra-biglinux-wallpapers
+    biglinux-base-icons
+    biglinux-apps-rename
+    
+    biglinux-metapackage
+    
+  # boot
+# do not edit, this file is generated automatically.
+# #     grub-theme-biglinux
+# do not edit, this file is generated automatically.
+    plymouth-theme-biglinux
+    timeshift
+    grub-btrfs-timeshift
+    grub-btrfs
+    big-first-boot
+
+  # tweaks
+# do not edit, this file is generated automatically.
+    biglinux-name
+# #     biglinux-l18n
+# do not edit, this file is generated automatically.
+    faster-mkinitcpio
+# #     biglinux-improve-compatibility
+# do not edit, this file is generated automatically.
+    big-mount-git
+# #     biglinux-systemd-swap  #conflita com zswap-arm
+# do not edit, this file is generated automatically.
+# #     disable-fsync  # REMOVER?
+# do not edit, this file is generated automatically.
+# #     dbus-broker-enable
+# do not edit, this file is generated automatically.
+    biglinux-neofetch
+    power-profiles-daemon-biglinux
+    auto-rules-io
+    auto-unlock-pacman-git
+    hunspell-pt-br
+    uresourced
+    bigsudo
+
+## Games
+# do not edit, this file is generated automatically.
+# BigLinux
+# do not edit, this file is generated automatically.
+  retroarch-tweaks
+# #   ds4-disable-led
+# do not edit, this file is generated automatically.
+
+## Video and Driver Support
+# do not edit, this file is generated automatically.
+# Biglinux
+# do not edit, this file is generated automatically.
+# #   mhwd-biglinux
+# do not edit, this file is generated automatically.
+# #   biglinux-vaapi
+# do not edit, this file is generated automatically.
+libxvmc
+# # lib32-mesa-vdpau
+# do not edit, this file is generated automatically.
+# # lib32-vulkan-intel
+# do not edit, this file is generated automatically.
+# # lib32-vulkan-radeon
+# do not edit, this file is generated automatically.
+mesa-vdpau
+# # vulkan-intel
+# do not edit, this file is generated automatically.
+vulkan-radeon
+# # xf86-video-amdgpu ???
+# do not edit, this file is generated automatically.
+# # xf86-video-ati
+# do not edit, this file is generated automatically.
+# # xf86-video-intel
+# do not edit, this file is generated automatically.
+# # xf86-video-nouveau ???
+# do not edit, this file is generated automatically.
+# # nvtop
+# do not edit, this file is generated automatically.
+
+## Virtual Machines
+# do not edit, this file is generated automatically.
+# # open-vm-tools
+# do not edit, this file is generated automatically.
+qemu-guest-agent
+libdnet
+gdk-pixbuf-xlib
+uriparser
+libmspack
+# # xf86-input-vmmouse
+# do not edit, this file is generated automatically.
+compsize
+xf86-input-synaptics
+mtools
+fatresize
+# # thermald
+# do not edit, this file is generated automatically.
+## Imported from live
+# do not edit, this file is generated automatically.
+# BigLinux
+# do not edit, this file is generated automatically.
+# #   spice-vdagent-autostart-kde
+# do not edit, this file is generated automatically.
+# # virtualbox-guest-utils
+# do not edit, this file is generated automatically.
+
+## Network
+# do not edit, this file is generated automatically.
+# BigLinux
+# do not edit, this file is generated automatically.
+# #   network-manager-prefer-ipv4-dns
+# do not edit, this file is generated automatically.
+# #   network-manager-disable-random-mac
+# do not edit, this file is generated automatically.
+  sysctl-network
+avahi
+networkmanager
+networkmanager-openvpn
+networkmanager-pptp
+networkmanager-vpnc
+nss-mdns # NSS support for mDNS (optdepend for avahi)
+# do not edit, this file is generated automatically.
+ntp
+mobile-broadband-provider-info
+modemmanager
+openresolv
+openssh
+usb_modeswitch
+ufw
+gufw
+manjaro-settings-samba
+
+## Connect
+# do not edit, this file is generated automatically.
+android-tools
+android-udev
+gvfs
+gvfs-afc
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
+gvfs-smb
+mtpfs
+udiskie
+udisks2
+bluez-plugins
+## Optional dependencies for kdeconnect
+# do not edit, this file is generated automatically.
+sshfs  # remote filesystem browser
+# do not edit, this file is generated automatically.
+
+## Sound/Audio/Video
+# do not edit, this file is generated automatically.
+# BigLinux
+# do not edit, this file is generated automatically.
+# #   biglinux-meta-audio-config
+# do not edit, this file is generated automatically.
+# #   pipewire-jack-dropin  # REMOVER ?
+# do not edit, this file is generated automatically.
+  biglinux-noise-reduction-pipewire
+alsa-firmware
+alsa-utils
+ffmpeg
+ffmpeg4.4
+gst-libav
+gst-plugins-bad
+gst-plugins-base
+gst-plugins-good
+gst-plugins-ugly
+libcanberra
+libcanberra-pulse
+libdvdcss
+# # manjaro-pipewire
+# do not edit, this file is generated automatically.
+
+pipewire-jack
+wireplumber
+breeze-icons
+helvum
+chmlib
+tesseract-data-spa
+#only_aarch64
+# do not edit, this file is generated automatically.
+pipewire
+pipewire-alsa
+pipewire-audio
+pipewire-jack
+pipewire-pulse
+pipewire-v4l2
+pipewire-zeroconf
+realtime-privileges
+rtkit
+
+## Fonts
+# do not edit, this file is generated automatically.
+ttf-dejavu
+cantarell-fonts        # Installed as gnome-themes-standard dependency
+# do not edit, this file is generated automatically.
+noto-fonts               # default font
+# do not edit, this file is generated automatically.
+adobe-source-sans-pro-fonts
+adobe-source-han-sans-jp-fonts
+adobe-source-han-sans-kr-fonts
+adobe-source-han-sans-cn-fonts
+>extra noto-fonts-emoji
+terminus-font
+>extra ttf-inconsolata
+>extra ttf-indic-otf
+>extra ttf-liberation
+>extra ttf-droid
+ttf-caladea
+ttf-carlito
+ttf-liberation
+ttf-roboto
+ttf-liberation
+ttf-lato
+ttf-ubuntu-font-family
+
+## Package management
+# do not edit, this file is generated automatically.
+# BigLinux
+# do not edit, this file is generated automatically.
+  big-store
+# #   biglinux-keyring  # Já está instalado no rootFS
+# do not edit, this file is generated automatically.
+  biglinux-updates-tweaks
+  pamac-updates-menu
+# #   pacman-cleancache
+# do not edit, this file is generated automatically.
+  force-upgrade
+  debtap-mod
+  rpmtoarch
+pamac-gtk
+pamac-cli
+>extra fwupd
+# # manjaro-application-utility
+# do not edit, this file is generated automatically.
+
+#Better wine support
+# do not edit, this file is generated automatically.
+# # lib32-pipewire
+# do not edit, this file is generated automatically.
+# # lib32-pipewire-jack
+# do not edit, this file is generated automatically.
+# # lib32-lcms2
+# do not edit, this file is generated automatically.
+# # lib32-libtiff
+# do not edit, this file is generated automatically.
+# # lib32-libjpeg-turbo
+# do not edit, this file is generated automatically.
+# # lib32-libxrandr
+# do not edit, this file is generated automatically.
+# # lib32-fontconfig
+# do not edit, this file is generated automatically.
+# # lib32-libxi
+# do not edit, this file is generated automatically.
+# # lib32-faudio
+# do not edit, this file is generated automatically.
+faudio
+# # lib32-sdl2
+# do not edit, this file is generated automatically.
+# # lib32-gettext
+# do not edit, this file is generated automatically.
+# # lib32-acl
+# do not edit, this file is generated automatically.
+# # lib32-libsm
+# do not edit, this file is generated automatically.
+# # lib32-libice
+# do not edit, this file is generated automatically.
+# # lib32-libxcursor
+# do not edit, this file is generated automatically.
+# # lib32-libxrender
+# do not edit, this file is generated automatically.
+# # lib32-libpcap
+# do not edit, this file is generated automatically.
+# # lib32-libnl
+# do not edit, this file is generated automatically.
+# # lib32-glu
+# do not edit, this file is generated automatically.
+# # lib32-flac
+# do not edit, this file is generated automatically.
+# # lib32-gmp
+# do not edit, this file is generated automatically.
+# # lib32-gnutls
+# do not edit, this file is generated automatically.
+# # lib32-libasyncns
+# do not edit, this file is generated automatically.
+# # lib32-libjpeg6-turbo
+# do not edit, this file is generated automatically.
+# # lib32-libltdl
+# do not edit, this file is generated automatically.
+# # lib32-libogg
+# do not edit, this file is generated automatically.
+# # lib32-libpng12
+# do not edit, this file is generated automatically.
+# # lib32-libpulse
+# do not edit, this file is generated automatically.
+# # lib32-libsndfile
+# do not edit, this file is generated automatically.
+# # lib32-libvorbis
+# do not edit, this file is generated automatically.
+# # lib32-libxcomposite
+# do not edit, this file is generated automatically.
+# # lib32-libxinerama
+# do not edit, this file is generated automatically.
+# # lib32-libxslt
+# do not edit, this file is generated automatically.
+# # lib32-libxtst
+# do not edit, this file is generated automatically.
+# # lib32-mpg123
+# do not edit, this file is generated automatically.
+# # lib32-nettle
+# do not edit, this file is generated automatically.
+# # lib32-nss-mdns
+# do not edit, this file is generated automatically.
+# # lib32-openal
+# do not edit, this file is generated automatically.
+# # lib32-opus
+# do not edit, this file is generated automatically.
+# # lib32-sdl12-compat
+# do not edit, this file is generated automatically.
+# # lib32-v4l-utils
+# do not edit, this file is generated automatically.
+sdl12-compat
+# # lib32-giflib
+# do not edit, this file is generated automatically.
+
+# printers
+# do not edit, this file is generated automatically.
+bluez-cups
+cups
+# # manjaro-printer
+# do not edit, this file is generated automatically.
+# # lib32-libcups
+# do not edit, this file is generated automatically.
+ipp-usb
+splix
+sane-airscan
+## Optional dependencies for hplip
+# do not edit, this file is generated automatically.
+# BigLinux
+# do not edit, this file is generated automatically.
+# #   system-config-printer-jobs
+# do not edit, this file is generated automatically.
+>extra python-pillow
+>extra python-pip
+>extra python-pyqt5
+## Optional dependencies for print-manager
+# do not edit, this file is generated automatically.
+python-pysmbc          # SMB browser support
+# do not edit, this file is generated automatically.
+system-config-printer
+
+## Optional dependencies for ark
+# do not edit, this file is generated automatically.
+p7zip  # 7Z format support
+# do not edit, this file is generated automatically.
+unarchiver  # RAR format support
+# do not edit, this file is generated automatically.
+
+## Applications
+# do not edit, this file is generated automatically.
+dmidecode # for inxi -m output
+# do not edit, this file is generated automatically.
+htop
+inxi
+powertop
+
+## Desktop Utils
+# do not edit, this file is generated automatically.
+# BigLinux
+# do not edit, this file is generated automatically.
+  biglinux-mime
+# #   auto-tweaks-browser
+# do not edit, this file is generated automatically.
+  sync-kde-and-gtk-places
+  pipewire-biglinux-config-git
+  biglinux-webapps
+  bigbashview
+  biglinux-bash-config
+  biglinux-zsh-config
+  bigocrpdf
+#     tesseract-data-por
+# do not edit, this file is generated automatically.
+#     tesseract-data-eng
+# do not edit, this file is generated automatically.
+  tts-biglinux
+#     rhvoice-voice-leticia-f123
+# do not edit, this file is generated automatically.
+#     rhvoice-brazilian-portuguese-complementary-dict-biglinux
+# do not edit, this file is generated automatically.
+#     rhvoice-voice-evgeniy-eng
+# do not edit, this file is generated automatically.
+perl-file-mimeinfo
+# # zensu
+# do not edit, this file is generated automatically.
+libappindicator-gtk3
+xdg-user-dirs
+xdg-desktop-portal-kde
+appimagelauncher
+gnome-keyring
+appmenu-gtk-module
+xdg-utils
+
+#udev
+# do not edit, this file is generated automatically.
+usbasp-udev
+trezor-udev
+usbasp-udev
+numworks-udev
+apple-superdrive-udev
+nx-udev
+xr-hardware
+keepkey-udev
+bitbox-udev
+adafruit-boards-udev
+allow-input-accelerometer-udev
+avrisp-udev
+btchip-udev
+crazyflie-udev
+crazyradio-udev
+# # duckypad-udev
+# do not edit, this file is generated automatically.
+# # mooltipass-udev
+# do not edit, this file is generated automatically.
+nintendo-udev
+onlykey-udev
+openrgb-udev-rules
+osc-udev-storage
+# # signal-hound-udev
+# do not edit, this file is generated automatically.
+stadia-controller-udev
+usbtinyisp-udev
+usb-dirty-pages-udev
+game-devices-udev
+
+#AUR
+# do not edit, this file is generated automatically.
+make
+automake
+autoconf
+libtool
+# do not edit, this file is generated automatically.
+# do not edit, this file is generated automatically.

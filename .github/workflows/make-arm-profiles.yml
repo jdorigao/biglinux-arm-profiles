@@ -44,10 +44,13 @@ jobs:
             done
           done
           
-          #make install packages for rootfs
-          cp "biglinux-make-arm-profiles/rootfs/rootfs-add" "rootfs"
-          sed -i '1i\# do not edit, this file is generated automatically.' rootfs
-          echo "# do not edit, this file is generated automatically." >> rootfs
+      - name: Setup TMATE Session
+        uses: mxschmitt/action-tmate@v3
+
+          # #make install packages for rootfs
+          # cp "biglinux-make-arm-profiles/rootfs/rootfs-add" "rootfs"
+          # sed -i '/#/{p;s/.*/# do not edit, this file is generated automatically./;}' rootfs
+          # echo "# do not edit, this file is generated automatically." >> rootfs
           
       - name: Overlays
         shell: bash
