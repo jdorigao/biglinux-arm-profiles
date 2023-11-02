@@ -33,8 +33,8 @@ jobs:
               #add
               cat manjaro-arm-profiles/$folder/$file biglinux-make-arm-profiles/$folder/$file-add > $folder/$file
               #remove
-              grep -v -f biglinux-make-arm-profiles/$folder/$file-remove $folder/$file > $folder/$file-tmp
-              mv $folder/$file-tmp $folder/$file
+              # grep -v -f biglinux-make-arm-profiles/$folder/$file-remove $folder/$file > $folder/$file-tmp
+              # mv $folder/$file-tmp $folder/$file
               # add text do not edit.
               sed -i '/#/{p;s/.*/# do not edit, this file is generated automatically./;}' $folder/$file
               if [ -z "$(grep "#do not edit, this file is generated automatically." $folder/$file)" ];then
