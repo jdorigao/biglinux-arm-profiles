@@ -215,7 +215,7 @@ ttf-ubuntu-font-family
 ## Package management
 # BigLinux
   big-store
-  biglinux-keyring
+# #   biglinux-keyring  # Já está instalado no rootFS
   biglinux-updates-tweaks
   pamac-updates-menu
 # #   pacman-cleancache
