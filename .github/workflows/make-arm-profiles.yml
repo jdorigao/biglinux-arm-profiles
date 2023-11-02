@@ -44,10 +44,17 @@ jobs:
             done
           done
           
+          #make install packages for rootfs
+          sed 's/#.*//;s/^ \+//;/^$/d;s/>[^ ]* //g' biglinux-make-arm-profiles/rootfs/rootfs-add > rootfs
+          
       - name: Overlays
         shell: bash
         run: |
           cp -a manjaro-arm-profiles/overlays/* overlays/
+          
+          #kde-plasma
+          # rm overlays/kde-plasma/etc/skel/.config/
+          
           cp -a biglinux-make-arm-profiles/overlays/* overlays/
           
       - name: Clean
