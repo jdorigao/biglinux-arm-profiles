@@ -393,7 +393,7 @@ mystiq
 kde-color-folder
 kdegraphics-mobipocket
 gtk3
-big-skel
+# # big-skel
 powerdevil
 biglinux-plasmoids
 packagekit-qt5
