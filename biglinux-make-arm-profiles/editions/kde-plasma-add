@@ -28,7 +28,7 @@ xz
 make
 pacutils
 aspell-pt
-pulseaudio-alsa
+# # pulseaudio-alsa já tem pipewire
 python-cssselect
 python-qtpy
 xapian-core
@@ -403,8 +403,8 @@ biglinux-session-and-themes
 biglinux-themes-gui
 sddm-theme-biglinux
 # # sddm-xorg-failsafe
-libreoffice-fresh
-libreoffice-fresh-pt-br
+# # libreoffice-fresh  # falta de espaço
+# # libreoffice-fresh-pt-br  # falta de espaço
 brave-browser
 keditbookmarks
 plasma-appsmenu-biglinux
