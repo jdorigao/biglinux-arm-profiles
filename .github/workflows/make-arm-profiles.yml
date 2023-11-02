@@ -45,7 +45,9 @@ jobs:
           done
           
           #make install packages for rootfs
-          sed 's/#.*//;s/^ \+//;/^$/d;s/>[^ ]* //g' biglinux-make-arm-profiles/rootfs/rootfs-add > rootfs
+          cp "biglinux-make-arm-profiles/rootfs/rootfs-add" "rootfs"
+          sed -i '1i\# do not edit, this file is generated automatically.' rootfs
+          echo "# do not edit, this file is generated automatically." >> rootfs
           
       - name: Overlays
         shell: bash
