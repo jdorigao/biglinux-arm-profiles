@@ -355,7 +355,6 @@ tesseract-data-spa
 pipewire
 pipewire-alsa
 pipewire-audio
-pipewire-jack-client
 pipewire-jack
 pipewire-pulse
 pipewire-v4l2
