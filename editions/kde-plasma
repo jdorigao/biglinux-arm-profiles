@@ -48,19 +48,16 @@ ark
 okular
 gwenview
 spectacle
-# Themes
-# do not edit, this file is generated automatically.
-#plasma6-themes-breath
-# do not edit, this file is generated automatically.
 sddm-breath-theme
 breeze-gtk
-manjaro-icons
 # Office suite
 # do not edit, this file is generated automatically.
 #libreoffice-fresh
 # do not edit, this file is generated automatically.
 # Browser
 # do not edit, this file is generated automatically.
+firefox
+firefox-ublock-origin
 # Package Manager
 # do not edit, this file is generated automatically.
 pamac-gtk
@@ -71,13 +68,6 @@ ttf-bitstream-vera
 noto-fonts
 wqy-microhei #chinese
 # do not edit, this file is generated automatically.
-# Manjaro tools
-# do not edit, this file is generated automatically.
-manjaro-settings-manager
-manjaro-hotfixes
-manjaro-arm-flasher
-manjaro-arm-installer
-matray
 # Other packages
 # do not edit, this file is generated automatically.
 openresolv
@@ -88,185 +78,4 @@ networkmanager-openvpn
 firewalld
 xorg-server
 xorg-xinit
-## DESKTOP-ADD ##
-# do not edit, this file is generated automatically.
-## BigLinux
-# do not edit, this file is generated automatically.
-qbittorrent
-big-preload
-# # plasmashell-fix-git
-# do not edit, this file is generated automatically.
-kfind
-kdialog
-pavucontrol-qt
-kscreen
-kcm-wacomtablet
-plasma-thunderbolt
-kio-gdrive
-#mintstick
-# do not edit, this file is generated automatically.
-filelight
-skanpage
-biglinux-config
-feh
-lutris
-# # open-in-lutris-git
-# do not edit, this file is generated automatically.
-# # steam
-# do not edit, this file is generated automatically.
-# # python-steam
-# do not edit, this file is generated automatically.
-kde-service-menu-reimage
-kde-servicemenus-officeconverter
-#mystiq
-# do not edit, this file is generated automatically.
-# # rustdesk-bin
-# do not edit, this file is generated automatically.
-kde-color-folder
-kdegraphics-mobipocket
-gtk3
-# # big-skel
-# do not edit, this file is generated automatically.
-powerdevil
-biglinux-plasmoids
-packagekit-qt5
-bigcontrolcenter
-# # rootactions-servicemenu-biglinux
-# do not edit, this file is generated automatically.
-#biglinux-session-and-themes
-# do not edit, this file is generated automatically.
-biglinux-themes-gui
-sddm-theme-biglinux
-# # sddm-xorg-failsafe
-# do not edit, this file is generated automatically.
-# # libreoffice-fresh  # falta de espaço
-# do not edit, this file is generated automatically.
-# # libreoffice-fresh-pt-br  # falta de espaço
-# do not edit, this file is generated automatically.
-#brave-browser
-# do not edit, this file is generated automatically.
-keditbookmarks
-plasma-appsmenu-biglinux
-#big-executable
-# do not edit, this file is generated automatically.
-# # mx-idevice-mounter
-# do not edit, this file is generated automatically.
-## Network
-# do not edit, this file is generated automatically.
-## Libraries for Sound/Audio/Video
-# do not edit, this file is generated automatically.
-phonon-qt5-vlc
-## Connect Packages
-# do not edit, this file is generated automatically.
-kamera
-## Package management
-# do not edit, this file is generated automatically.
-pamac-tray-icon-plasma
-## Display manager
-# do not edit, this file is generated automatically.
-sddm
-sddm-kcm
-## Plasma5
-# do not edit, this file is generated automatically.
-bluedevil
-kde-gtk-config
-kdeplasma-addons
-#kgamma5
-# do not edit, this file is generated automatically.
-kinfocenter
-kmenuedit
-kscreenlocker
-ksshaskpass
-ksysguard
-kwallet-pam
-kwayland-integration
-kwin
-qt5-virtualkeyboard  # Virtual keyboard support for kwin-wayland
-# do not edit, this file is generated automatically.
-kwrited
-plasma-desktop
-plasma-nm
-plasma-pa
-plasma-workspace
-systemsettings
-plasma-vault
-cryfs
-# # kwin-scripts-virtual-desktops-only-on-primary
-# do not edit, this file is generated automatically.
-guvcview
-kalarm
-kmines
-kpat
-ksystemlog
-# # kwin-window-positioning-scripts
-# do not edit, this file is generated automatically.
-#plasma5-applet-tiledmenu-git
-# do not edit, this file is generated automatically.
-#plasma5-applets-resources-monitor
-# do not edit, this file is generated automatically.
-# # simplescreenrecorder
-# do not edit, this file is generated automatically.
-#kde-snap-assist
-# do not edit, this file is generated automatically.
-## KDE Applications
-# do not edit, this file is generated automatically.
-ark
-dolphin
-dolphin-plugins
-kate
-gnome-calculator
-kfind
-kdeconnect
-okular
-kdenetwork-filesharing
-khotkeys
-kio-extras
-konsole
-kwalletmanager
-gwenview
-gparted
-spectacle
-# # vlc-luajit
-# do not edit, this file is generated automatically.
-plasma5-applets-window-buttons
-# # plasma-simplemenu
-# do not edit, this file is generated automatically.
-kvantum
-## Optional dependencies for dolphin
-# do not edit, this file is generated automatically.
-kdegraphics-thumbnailers  # PDF and PS thumbnails
-# do not edit, this file is generated automatically.
-ffmpegthumbs              # video thumbnails
-# do not edit, this file is generated automatically.
-## Optional dependencies for gwenview
-# do not edit, this file is generated automatically.
-#kimageformats     # support for dds, xcf, exr, psd, and more image formats
-# do not edit, this file is generated automatically.
-qt5-imageformats  # support for tiff, webp, and more image formats
-# do not edit, this file is generated automatically.
-## Optional dependencies for kaccounts-integration
-# do not edit, this file is generated automatically.
-kaccounts-providers
-## Optional dependencies for okular
-# do not edit, this file is generated automatically.
-poppler-data  # encoding data to display PDF documents containing CJK characters
-# do not edit, this file is generated automatically.
-## Applications
-# do not edit, this file is generated automatically.
-#manjaro-application-utility
-# do not edit, this file is generated automatically.
-manjaro-settings-manager-kcm
-# # manjaro-settings-manager-knotifier
-# do not edit, this file is generated automatically.
-# # systemd-kcm
-# do not edit, this file is generated automatically.
-## Flatpak support
-# do not edit, this file is generated automatically.
-pamac-flatpak-plugin
-# BigLinux-ARM
-# do not edit, this file is generated automatically.
-onboard
-# sddm-theme-biglinux
-# do not edit, this file is generated automatically.
-qt5-virtualkeyboard
 # do not edit, this file is generated automatically.
