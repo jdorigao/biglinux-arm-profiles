@@ -5,7 +5,7 @@
 # Kernel and bootloader stuff
 # do not edit, this file is generated automatically.
 linux-aml
-boot-gtking-pro
+uboot-gtking-pro
 plymouth
 plymouth-theme-manjaro
 
@@ -15,8 +15,6 @@ plymouth-theme-manjaro
 # Other device specific packages
 # do not edit, this file is generated automatically.
 crda
-btrfs-progs
-f2fs-tools
 kvim2-firmware
 #bluetooth-vim3
 # do not edit, this file is generated automatically.

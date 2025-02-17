@@ -2,19 +2,6 @@
 ## Maintained by Strit ##
 # do not edit, this file is generated automatically.
 
-# Minimal packages
-# do not edit, this file is generated automatically.
-sudo
-parted
-openssh
-inxi
-ncdu
-nano
-man-pages
-man-db
-ntfs-3g
-zswap-arm
-
 # Audio and video
 # do not edit, this file is generated automatically.
 alsa-firmware
@@ -65,7 +52,7 @@ matcha-gtk-theme
 papirus-maia-icon-theme
 xcursor-breeze
 kvantum-theme-matchama
-kvantum-qt5
+kvantum
 
 # Package Manager
 # do not edit, this file is generated automatically.

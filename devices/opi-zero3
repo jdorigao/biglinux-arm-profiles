@@ -4,8 +4,8 @@
 
 # Kernel and bootloader stuff
 # do not edit, this file is generated automatically.
-linux-rc
-linux-rc-headers
+linux-opi
+linux-opi-headers
 uboot-opi-zero3
 plymouth
 plymouth-theme-manjaro
@@ -19,6 +19,7 @@ plymouth-theme-manjaro
 # do not edit, this file is generated automatically.
 crda
 wpa_supplicant
+uwe5622-firmware
 generic-post-install
 opi4lts-post-install
 # do not edit, this file is generated automatically.

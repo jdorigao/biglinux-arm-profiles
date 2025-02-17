@@ -1,27 +1,13 @@
 # do not edit, this file is generated automatically.
 ## Maintained by Strit ##
 # do not edit, this file is generated automatically.
-# Minimal packages
-# do not edit, this file is generated automatically.
-sudo
-parted
-openssh
-xorg-server
-xorg-xinit
-inxi
-ncdu
-nano
-man-pages
-man-db
-ntfs-3g
-zswap-arm
-irqbalance
 # Sound, Video and bluetooth
 # do not edit, this file is generated automatically.
 alsa-utils
 mpv
 wireplumber
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 gst-plugin-pipewire
@@ -41,7 +27,7 @@ kscreen
 kscreenlocker
 kwallet-pam
 kwayland-integration
-plasma-wayland-session
+plasma-wayland-protocols
 kwin
 plasma-desktop
 plasma-nm
@@ -64,7 +50,8 @@ gwenview
 spectacle
 # Themes
 # do not edit, this file is generated automatically.
-plasma5-themes-breath
+#plasma6-themes-breath
+# do not edit, this file is generated automatically.
 sddm-breath-theme
 breeze-gtk
 manjaro-icons
@@ -99,6 +86,8 @@ power-profiles-daemon
 xdg-user-dirs
 networkmanager-openvpn
 firewalld
+xorg-server
+xorg-xinit
 ## DESKTOP-ADD ##
 # do not edit, this file is generated automatically.
 ## BigLinux

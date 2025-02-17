@@ -16,4 +16,5 @@ irqbalance.service
 >pinephone pinephonepro-post-install.service
 >pinephone ModemManager.service
 >pinephone pinephone-modem-scripts.pinephone-modem-setup.service
+>pinetab2 pinetab2-post-install.service
 # do not edit, this file is generated automatically.

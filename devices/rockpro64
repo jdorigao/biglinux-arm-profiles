@@ -15,8 +15,6 @@ plymouth-theme-manjaro
 # Other device specific packages
 # do not edit, this file is generated automatically.
 linux-firmware
-btrfs-progs
-f2fs-tools
 generic-post-install
 rockpro64-post-install
 # do not edit, this file is generated automatically.

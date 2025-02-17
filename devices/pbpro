@@ -16,8 +16,6 @@ plymouth-theme-manjaro
 # do not edit, this file is generated automatically.
 linux-firmware
 crda
-btrfs-progs
-f2fs-tools
 ap6256-firmware
 wpa_supplicant
 pinebookpro-audio

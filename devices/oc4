@@ -5,6 +5,7 @@
 # Kernel and bootloader stuff
 # do not edit, this file is generated automatically.
 linux
+linux-headers
 uboot-odroid-c4
 plymouth
 plymouth-theme-manjaro
@@ -14,8 +15,6 @@ plymouth-theme-manjaro
 
 # Other device specific packages
 # do not edit, this file is generated automatically.
-btrfs-progs
-f2fs-tools
 fbset
 generic-post-install
 oc4-post-install

@@ -24,26 +24,10 @@
 #>pinephone eg25-autorestart
 # do not edit, this file is generated automatically.
 
-# Minimal packages
-# do not edit, this file is generated automatically.
-glibc-locales
-sudo
-parted
-openssh
-inxi
-ncdu
-nano
-dhcpcd
-man-pages
-man-db
-ntfs-3g
-zswap-arm
-bash-completion
-
 # Phosh packages
 # do not edit, this file is generated automatically.
+feedbackd-device-themes
 gtk3-mobile
-mutter
 phosh
 phosh-mobile-settings
 >pinephone phosh-antispam
@@ -54,10 +38,12 @@ mmsd-tng
 # do not edit, this file is generated automatically.
 evince-mobile
 powersupply
->pinephone purple-mm-sms
-purple-matrix
-purple-telegram
-gnome-console
+#>pinephone purple-mm-sms
+# do not edit, this file is generated automatically.
+#purple-matrix
+# do not edit, this file is generated automatically.
+#purple-telegram
+# do not edit, this file is generated automatically.
 sound-theme-phosh
 squeekboard
 #megapixels
@@ -65,46 +51,44 @@ squeekboard
 postprocessd
 numberstation
 xdg-user-dirs
-gnome-contacts-mobile
-gnome-control-center-mobile
-#gnome-software-mobile
-# do not edit, this file is generated automatically.
-gnome-usage-mobile
-gnome-sound-recorder
-gnome-initial-setup-mobile
-gnome-todo-mobile
 geoclue
 dnsmasq
 wake-mobile
+xdg-desktop-portal-phosh
 
-# Gnome packages
+# GNOME packages
 # do not edit, this file is generated automatically.
-#gnome-authenticator
-# do not edit, this file is generated automatically.
-gnome-calculator-mobile
+gnome-calculator
+gnome-contacts
+gnome-control-center
 gnome-clocks
 gnome-keyring
 gnome-maps
 gnome-2048
-gnome-calendar-mobile
+gnome-calendar
 gnome-chess
-gnuchess 
+gnome-initial-setup
+gnuchess
 file-roller
 fractal
 #gnote
 # do not edit, this file is generated automatically.
-eog
+loupe
 gnome-podcasts
 lollypop
-gedit
+gnome-text-editor
 geary
+gnome-console
+gnome-keyring
+gnome-sound-recorder
+mutter
 
 #hdr-plus-git
 # do not edit, this file is generated automatically.
 
 # Theming
 # do not edit, this file is generated automatically.
-adw-gtk3
+adw-gtk-theme
 manjaro-arm-wallpapers
 manjaro-icons
 papirus-maia-icon-theme
@@ -112,16 +96,15 @@ papirus-maia-icon-theme
 # Other packages
 # do not edit, this file is generated automatically.
 bluez
-pulseaudio-bluetooth
+#authenticator
+# do not edit, this file is generated automatically.
 pamac-gtk
->pinephone pamac-mobile-integration
 pamac-gnome-integration
 portfolio-file-manager
 iio-sensor-proxy
 networkmanager
 networkmanager-pptp
 networkmanager-openvpn
-gnome-keyring
 polkit
 xorg-server-xwayland
 #hwtest
@@ -137,4 +120,12 @@ siglo
 postmarketos-tweaks-phosh
 confy
 gpsd
+glibc-locales
+#wireplumber
+# do not edit, this file is generated automatically.
+#gst-plugin-pipewire
+# do not edit, this file is generated automatically.
+xdg-desktop-portal-gtk # to fix slow program startup
+# do not edit, this file is generated automatically.
+livi
 # do not edit, this file is generated automatically.

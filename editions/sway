@@ -2,19 +2,6 @@
 ## Maintained by Appelgriebsch ##
 # do not edit, this file is generated automatically.
 
-# Minimal packages
-# do not edit, this file is generated automatically.
-sudo
-parted
-openssh
-inxi
-ncdu
-nano
-man-pages
-man-db
-zswap-arm
-irqbalance
-
 # Sound, video and bluetooth
 # do not edit, this file is generated automatically.
 pavucontrol
@@ -24,6 +11,7 @@ bluez-utils
 blueman
 wireplumber
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 pulsemixer
@@ -70,12 +58,11 @@ wf-recorder
 
 # Themes
 # do not edit, this file is generated automatically.
-adw-gtk3
+adw-gtk-theme
 qt5ct
 qt5-wayland
-kvantum-qt5
+kvantum
 kvantum-theme-matchama
-gtk3-nocsd
 matcha-gtk-theme
 manjaro-arm-wallpapers
 papirus-maia-icon-theme
@@ -94,7 +81,9 @@ pamac-cli
 
 # Fonts
 # do not edit, this file is generated automatically.
-nerd-fonts-terminus
+# nerd-fonts-terminus # Replaced with ttf-terminus-nerd
+# do not edit, this file is generated automatically.
+ttf-terminus-nerd
 noto-fonts
 noto-fonts-emoji
 ttf-bitstream-vera
@@ -121,17 +110,19 @@ fd
 firewalld
 ffmpegthumbnailer
 fzf
-gitui
+#gitui
+# do not edit, this file is generated automatically.
 gpg-tui
 helix
-hey
+#hey
+# do not edit, this file is generated automatically.
 hexyl
 httpie
 hyperfine
 jq
 khard
 khal
-light
+brightnessctl
 mdcat
 mediainfo
 mlocate
@@ -165,7 +156,6 @@ gedit-plugins
 gnome-disk-utility
 gnome-epub-thumbnailer
 gnome-keyring
-gradience
 manjaro-settings-manager
 matray
 nautilus
@@ -184,7 +174,6 @@ gvfs-nfs
 gvfs-smb
 ifuse
 mtpfs
-ntfs-3g
 mpv
 ffmpeg
 sshfs

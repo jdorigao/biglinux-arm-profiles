@@ -18,9 +18,8 @@ plymouth-theme-manjaro
 # Other device specific packages
 # do not edit, this file is generated automatically.
 crda
-btrfs-progs
-f2fs-tools
 wpa_supplicant
 generic-post-install
-pinebook-post-install
+opi4lts-post-install
+uwe5622-firmware
 # do not edit, this file is generated automatically.

@@ -4,7 +4,9 @@
 
 # Kernel and bootloader stuff
 # do not edit, this file is generated automatically.
-linux-vim
+linux-api-headers #needed for GUI for some reason
+# do not edit, this file is generated automatically.
+linux-odroid
 uboot-odroid-c2-mainline
 plymouth
 plymouth-theme-manjaro
@@ -15,8 +17,6 @@ xf86-video-fbdev
 
 # Other device specific packages
 # do not edit, this file is generated automatically.
-btrfs-progs
-f2fs-tools
 fbset
 amlogic
 generic-post-install

@@ -4,8 +4,9 @@
 
 # Kernel and bootloader stuff
 # do not edit, this file is generated automatically.
-linux-rk3588
-linux-rk3588-headers
+linux
+linux-headers
+linux-firmware
 uboot-station-m3
 #plymouth
 # do not edit, this file is generated automatically.
