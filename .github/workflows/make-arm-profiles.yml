@@ -23,7 +23,6 @@ jobs:
           fi
           git clone https://gitlab.manjaro.org/manjaro-arm/applications/arm-profiles.git manjaro-arm-profiles
           cd manjaro-arm-profiles
-          git checkout tags/$(git describe --tags --abbrev=0)
       
       - name: Add and Remove in files
         shell: bash
