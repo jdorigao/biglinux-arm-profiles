@@ -103,7 +103,8 @@ kscreen
 kcm-wacomtablet
 plasma-thunderbolt
 kio-gdrive
-mintstick
+#mintstick
+# do not edit, this file is generated automatically.
 filelight
 skanpage
 biglinux-config
@@ -117,7 +118,8 @@ lutris
 # do not edit, this file is generated automatically.
 kde-service-menu-reimage
 kde-servicemenus-officeconverter
-mystiq
+#mystiq
+# do not edit, this file is generated automatically.
 # # rustdesk-bin
 # do not edit, this file is generated automatically.
 kde-color-folder
@@ -131,7 +133,8 @@ packagekit-qt5
 bigcontrolcenter
 # # rootactions-servicemenu-biglinux
 # do not edit, this file is generated automatically.
-biglinux-session-and-themes
+#biglinux-session-and-themes
+# do not edit, this file is generated automatically.
 biglinux-themes-gui
 sddm-theme-biglinux
 # # sddm-xorg-failsafe
@@ -140,10 +143,12 @@ sddm-theme-biglinux
 # do not edit, this file is generated automatically.
 # # libreoffice-fresh-pt-br  # falta de espaço
 # do not edit, this file is generated automatically.
-brave-browser
+#brave-browser
+# do not edit, this file is generated automatically.
 keditbookmarks
 plasma-appsmenu-biglinux
-big-executable
+#big-executable
+# do not edit, this file is generated automatically.
 # # mx-idevice-mounter
 # do not edit, this file is generated automatically.
 ## Network
@@ -166,7 +171,8 @@ sddm-kcm
 bluedevil
 kde-gtk-config
 kdeplasma-addons
-kgamma5
+#kgamma5
+# do not edit, this file is generated automatically.
 kinfocenter
 kmenuedit
 kscreenlocker
@@ -194,11 +200,14 @@ kpat
 ksystemlog
 # # kwin-window-positioning-scripts
 # do not edit, this file is generated automatically.
-plasma5-applet-tiledmenu-git
-plasma5-applets-resources-monitor
+#plasma5-applet-tiledmenu-git
+# do not edit, this file is generated automatically.
+#plasma5-applets-resources-monitor
+# do not edit, this file is generated automatically.
 # # simplescreenrecorder
 # do not edit, this file is generated automatically.
-kde-snap-assist
+#kde-snap-assist
+# do not edit, this file is generated automatically.
 ## KDE Applications
 # do not edit, this file is generated automatically.
 ark
@@ -231,7 +240,7 @@ ffmpegthumbs              # video thumbnails
 # do not edit, this file is generated automatically.
 ## Optional dependencies for gwenview
 # do not edit, this file is generated automatically.
-kimageformats     # support for dds, xcf, exr, psd, and more image formats
+#kimageformats     # support for dds, xcf, exr, psd, and more image formats
 # do not edit, this file is generated automatically.
 qt5-imageformats  # support for tiff, webp, and more image formats
 # do not edit, this file is generated automatically.
