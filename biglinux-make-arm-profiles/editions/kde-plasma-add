@@ -12,7 +12,7 @@ kscreen
 kcm-wacomtablet
 plasma-thunderbolt
 kio-gdrive
-mintstick
+#mintstick
 filelight
 skanpage
 biglinux-config
@@ -23,7 +23,7 @@ lutris
 # # python-steam
 kde-service-menu-reimage
 kde-servicemenus-officeconverter
-mystiq
+#mystiq
 # # rustdesk-bin
 kde-color-folder
 kdegraphics-mobipocket
@@ -34,16 +34,16 @@ biglinux-plasmoids
 packagekit-qt5
 bigcontrolcenter
 # # rootactions-servicemenu-biglinux
-biglinux-session-and-themes
+#biglinux-session-and-themes
 biglinux-themes-gui
 sddm-theme-biglinux
 # # sddm-xorg-failsafe
 # # libreoffice-fresh  # falta de espaço
 # # libreoffice-fresh-pt-br  # falta de espaço
-brave-browser
+#brave-browser
 keditbookmarks
 plasma-appsmenu-biglinux
-big-executable
+#big-executable
 # # mx-idevice-mounter
 
 ## Network
@@ -65,7 +65,7 @@ sddm-kcm
 bluedevil
 kde-gtk-config
 kdeplasma-addons
-kgamma5
+#kgamma5
 kinfocenter
 kmenuedit
 kscreenlocker
@@ -90,10 +90,10 @@ kmines
 kpat
 ksystemlog
 # # kwin-window-positioning-scripts
-plasma5-applet-tiledmenu-git
-plasma5-applets-resources-monitor
+#plasma5-applet-tiledmenu-git
+#plasma5-applets-resources-monitor
 # # simplescreenrecorder
-kde-snap-assist
+#kde-snap-assist
 
 ## KDE Applications
 ark
@@ -122,7 +122,7 @@ kdegraphics-thumbnailers  # PDF and PS thumbnails
 ffmpegthumbs              # video thumbnails
 
 ## Optional dependencies for gwenview
-kimageformats     # support for dds, xcf, exr, psd, and more image formats
+#kimageformats     # support for dds, xcf, exr, psd, and more image formats
 qt5-imageformats  # support for tiff, webp, and more image formats
 
 ## Optional dependencies for kaccounts-integration
