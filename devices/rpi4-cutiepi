@@ -7,9 +7,7 @@
 linux-rpi4
 linux-rpi4-headers
 raspberrypi-bootloader
-raspberrypi-bootloader-x
-rpi-eeprom
-raspberrypi-userland-aarch64-git
+raspberrypi-utils
 plymouth
 plymouth-theme-manjaro
 
@@ -18,11 +16,8 @@ plymouth-theme-manjaro
 
 # Other device specific packages
 # do not edit, this file is generated automatically.
-crda
-btrfs-progs
-f2fs-tools
+wireless-regdb
 firmware-raspberrypi
-brcm-patchram-plus
 wpa_supplicant
 generic-post-install
 rpi4-post-install

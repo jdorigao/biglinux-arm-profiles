@@ -15,8 +15,6 @@ plymouth-theme-manjaro
 # Other device specific packages
 # do not edit, this file is generated automatically.
 crda
-btrfs-progs
-f2fs-tools
 generic-post-install
 nanopc-t4-post-install
 ap6398s-firmware

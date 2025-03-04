@@ -2,19 +2,6 @@
 ## Maintained by Appelgriebsch ##
 # do not edit, this file is generated automatically.
 
-# Minimal packages
-# do not edit, this file is generated automatically.
-sudo
-parted
-openssh
-inxi
-ncdu
-nano
-man-pages
-man-db
-zswap-arm
-irqbalance
-
 # Sound, video and bluetooth
 # do not edit, this file is generated automatically.
 pavucontrol
@@ -23,6 +10,7 @@ bluez
 bluez-utils
 wireplumber
 pipewire-alsa
+pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
 grilo
@@ -83,10 +71,10 @@ totem
 
 # Themes
 # do not edit, this file is generated automatically.
-adw-gtk3
+adw-gtk-theme
 qt5ct
 qt5-wayland
-kvantum-qt5
+kvantum
 kvantum-theme-matchama
 matcha-gtk-theme
 manjaro-arm-wallpapers
@@ -122,7 +110,6 @@ wqy-microhei #chinese
 
 # some interesting CLI tools
 # do not edit, this file is generated automatically.
-bash-completion
 bat
 box64
 cpu-temp-speed
@@ -157,7 +144,8 @@ gcolor3
 gedit
 gedit-plugins
 gnome-epub-thumbnailer
-gradience
+#gradience Moved to AUR
+# do not edit, this file is generated automatically.
 manjaro-settings-manager
 matray
 remmina
@@ -173,7 +161,6 @@ gvfs-nfs
 gvfs-smb
 ifuse
 mtpfs
-ntfs-3g
 mpv
 ffmpeg
 usb_modeswitch
@@ -213,5 +200,5 @@ xorg-xkill
 ## Desktop Utils
 # do not edit, this file is generated automatically.
 xdg-utils
-xdg-desktop-portal-gtk
+xdg-desktop-portal-gnome
 # do not edit, this file is generated automatically.

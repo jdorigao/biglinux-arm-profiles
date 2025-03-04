@@ -2,22 +2,6 @@
 ## Maintained by Strit ##
 # do not edit, this file is generated automatically.
 
-# Minimal packages
-# do not edit, this file is generated automatically.
-sudo
-parted
-openssh
-inxi
-xorg-server
-xorg-xinit
-ncdu
-nano
-man-pages
-man-db
-ntfs-3g
-zswap-arm
-irqbalance
-
 # Sound, Video and bluetooth
 # do not edit, this file is generated automatically.
 alsa-utils
@@ -109,4 +93,6 @@ wget
 power-profiles-daemon
 manjaro-hotfixes
 xdg-user-dirs
+xorg-server
+xorg-xinit
 # do not edit, this file is generated automatically.

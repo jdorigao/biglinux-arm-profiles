@@ -9,38 +9,14 @@
 >pinephone noto-fonts-cjk # needed to display * and # in dialer
 # do not edit, this file is generated automatically.
 
-# Minimal packages
-# do not edit, this file is generated automatically.
-glibc-locales
-sudo
-parted
-openssh
-inxi
-ncdu
-nano
-dhcpcd
-#man-pages
-# do not edit, this file is generated automatically.
-#man-db
-# do not edit, this file is generated automatically.
-ntfs-3g
-zswap-arm
-bash-completion
-irqbalance
-
-# OpenGLES qt packages
-# do not edit, this file is generated automatically.
-qt5-es2-base
-qt5-es2-declarative
-qt5-es2-multimedia
-pyside2-es2
-
 # Multimedia packages
 # do not edit, this file is generated automatically.
 gst-libav
 gst-plugins-bad
 gst-plugins-base
 gst-plugins-ugly
+wireplumber
+gst-plugin-pipewire
 #ffmpeg-pp
 # do not edit, this file is generated automatically.
 maui-clip
@@ -67,7 +43,8 @@ kaccounts-providers
 kalk
 kclock
 kio-extras
-kpeoplesink
+#kpeoplesink
+# do not edit, this file is generated automatically.
 krecorder
 kweather
 kwin
@@ -82,12 +59,12 @@ libpinyin #fix chinese
 libchewing #fix chinese
 # do not edit, this file is generated automatically.
 maui-nota
-okular
+#okular
+# do not edit, this file is generated automatically.
 oxygen-sounds
-plasma-mobile-nm
+plasma-mobile
 plasma-mobile-settings
 plasma-nano
-plasma-phone-components
 plasma-phonebook
 #plasma-pix
 # do not edit, this file is generated automatically.
@@ -100,8 +77,10 @@ xdg-utils
 
 # First run wizard
 # do not edit, this file is generated automatically.
-pico-wizard-plamo-scripts
-pico-wizard-git
+#pico-wizard-plamo-scripts
+# do not edit, this file is generated automatically.
+#pico-wizard-git
+# do not edit, this file is generated automatically.
 
 # Packages to be built
 # do not edit, this file is generated automatically.
@@ -116,7 +95,8 @@ bluez
 bluedevil
 breeze
 drkonqi
-elisa-qtmm
+#elisa-qtmm
+# do not edit, this file is generated automatically.
 kdeconnect
 kinit
 kwallet-pam
@@ -140,10 +120,8 @@ manjaro-icons
 
 # Wayland stuff
 # do not edit, this file is generated automatically.
-kwayland
 kwayland-integration
 xorg-server-xwayland
-pipewire-media-session
 
 # Other
 # do not edit, this file is generated automatically.
@@ -163,4 +141,5 @@ lcms2 # needed for kwin nightmode
 hfd-service
 dnsmasq
 appimagelauncher
+glibc-locales
 # do not edit, this file is generated automatically.

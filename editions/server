@@ -2,22 +2,6 @@
 ## Maintained by Strit ##
 # do not edit, this file is generated automatically.
 
-# Minimal packages
-# do not edit, this file is generated automatically.
-base
-sudo
-parted
-openssh
-inxi
-nano
-dhcpcd
-man-pages
-man-db
-usbutils
-ntfs-3g
-zswap-arm
-irqbalance
-
 # Server packages
 # do not edit, this file is generated automatically.
 apache

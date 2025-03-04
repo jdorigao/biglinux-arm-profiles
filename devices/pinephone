@@ -16,8 +16,15 @@ bootsplash-systemd
 
 # Audio configs
 # do not edit, this file is generated automatically.
-pinephone-modem-scripts
 alsa-ucm-pinephone
+pinephone-modem-scripts
+#pulseaudio-bluetooth
+# do not edit, this file is generated automatically.
+gst-plugin-pipewire
+pipewire-media-session
+pipewire-alsa
+pipewire-pulse
+pipewire-jack
 
 # Other device specific packages
 # do not edit, this file is generated automatically.

@@ -4,7 +4,7 @@
 
 # Kernel and bootloader stuff
 # do not edit, this file is generated automatically.
-linux515
+linux61
 boot-generic-efi
 efibootmgr
 grub
@@ -17,8 +17,6 @@ plymouth-theme-manjaro
 # Other device specific packages
 # do not edit, this file is generated automatically.
 crda
-btrfs-progs
-f2fs-tools
 linux-firmware
 ap6256-firmware
 generic-efi-post-install

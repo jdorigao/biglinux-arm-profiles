@@ -15,8 +15,6 @@ plymouth-theme-manjaro
 # Other device specific packages
 # do not edit, this file is generated automatically.
 crda
-btrfs-progs
-f2fs-tools
 ap6256-firmware
 wpa_supplicant
 generic-post-install

@@ -4,13 +4,12 @@
 
 # Kernel and bootloader stuff
 # do not edit, this file is generated automatically.
-linux-rk3588
-linux-rk3588-headers
+linux
+linux-headers
+linux-firmware
 uboot-orangepi5
-#plymouth
-# do not edit, this file is generated automatically.
-#plymouth-theme-manjaro
-# do not edit, this file is generated automatically.
+plymouth
+plymouth-theme-manjaro
 
 # Video drivers
 # do not edit, this file is generated automatically.
