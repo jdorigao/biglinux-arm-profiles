@@ -9,7 +9,6 @@ linux-headers
 linux-firmware
 uboot-orangepi5
 plymouth
-plymouth-theme-manjaro
 
 # Video drivers
 # do not edit, this file is generated automatically.
@@ -23,4 +22,5 @@ plymouth-theme-manjaro
 generic-post-install
 #orangepi5-post-install
 # do not edit, this file is generated automatically.
+plymouth-theme-biglinux
 # do not edit, this file is generated automatically.
